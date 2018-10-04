@@ -1,1 +1,9 @@
 maison
+sport
+evènement
+construction
+tech
+enfants
+beauté
+mode
+voiture
