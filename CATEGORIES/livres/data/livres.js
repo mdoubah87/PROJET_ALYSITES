@@ -2,13 +2,13 @@
 
     {
         key: 'fgkkf84fv57fdkjur857',
-        imgUrl: require('../images/pictures/bd.png'),
+        imgUrl: require('../images/1.png'),
         name: 'livres',
         subCategories: 
         [
             {
                 key: '12e3r',
-                imgUrl: require('../images/pictures/litterature_africaine/1.jpg'),
+                imgUrl: require('../images/pictures/litterature_africaine/africa.png'),
                 name: 'litterature africaine',
                 produits: [
                     {
@@ -196,11 +196,11 @@
             },
             {
                 key: '12e3655r',
-                imgUrl: require('../images/pictures/bd/1.jpg'),
+                imgUrl: require('../images/pictures/bd/1.png'),
                 name: 'BD(Bande desinée)',
                 produits: [
                     {
-                        key: 'kdjde878432978787894384',
+                        key: 'kdjde878432dd978787894384',
                         imgUrl:require('../images/pictures/bd/products/1.a.png'),
                         name: "Tintin au Tibet",
                         description: {
@@ -366,7 +366,7 @@
             },
             {
                 key: '12efjhf3655r',
-                imgUrl: require('../images/pictures/livres_etrangers/1.jpg'),
+                imgUrl: require('../images/pictures/livres_etrangers/1.png'),
                 name: 'Livres Etrangers',
                 produits: [
                     {
@@ -434,7 +434,7 @@
 
                     },
                     {
-                        key: 'kdjde84ff755858432994YTT384',
+                        key: 'kdjde84f3ff755858432994YTT384',
                         imgUrl:require('../images/pictures/livres_etrangers/products/5.a.png'),
                         name: "LE DICTIONNAIRE MODERNE",
                         description: {
@@ -480,7 +480,7 @@
 
                     },
                     {
-                        key: 'kdjd2e8784329FLKFER43592454',
+                        key: 'kdjd2e8784329FLKFEffR43592454',
                         imgUrl:require('../images/pictures/livres_etrangers/products/8.a.png'),
                         name: "JE VOULAIS JUSTE QUE ÇA S'ARRÊTE",
                         description: {
@@ -550,8 +550,8 @@
                 ]
             },,
             {
-                key: '12efjhf3654G45r',
-                imgUrl: require('../images/pictures/religions/1.jpg'),
+                key: '12efjhddf3654G45r',
+                imgUrl: require('../images/pictures/religions/1.png'),
                 name: 'RELIGIONS',
                 produits: [
                     {
@@ -751,6 +751,26 @@
                     },
 
 
+                ]
+            },
+            {
+                key: '12efjhfffr4f3654G45r',
+                imgUrl: require('../images/pictures/cuisine/1.png'),
+                name: 'cuisine',
+                produits: [
+                    {
+                        
+                    },
+                ]
+            },
+            {
+                key: '12efjhf3654Gg54445r',
+                imgUrl: require('../images/pictures/sante_et_bien_etre/1.png'),
+                name: 'sante_et_bien_etre',
+                produits: [
+                    {
+                        
+                    },
                 ]
             },
                
