@@ -3,7 +3,7 @@
     {
         key: 'fgkkf84fv57ffifi4jur857',
         imgUrl: require('../images/1.png'),
-        name: 'mode_homme_et_accessoires',
+        name: 'mode homme et accessoires',
         subCategories: 
         [
             {
