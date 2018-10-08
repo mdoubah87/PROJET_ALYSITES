@@ -13,6 +13,7 @@
                 produits: [
                     {
                         key: 'kdjde878432994384',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/1.a.png'),
                         name: "cahier d'un retour au pays natal",
                         description: {
                             features: [
@@ -29,6 +30,7 @@
                     },
                     {
                         key: 'kdjde8w2478432994384',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/2.a.png'),
                         name: "Discours sur le colonialisme",
                         description: {
                             features: [
@@ -45,6 +47,7 @@
                     },
                     {
                         key: 'kdjde487478fi878432994384',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/3.a.png'),
                         name: "la pricesse AFRICAINE sur la route de zimbaboué",
                         description: {
                             features: [
@@ -61,6 +64,7 @@
                     },
                     {
                         key: 'kdjde87843jh48482994384',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/4.a.png'),
                         name: "Africains levons-nous!,.....",
                         description: {
                             features: [
@@ -77,6 +81,7 @@
                     },
                     {
                         key: 'kdjde8755858432994384',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/5.a.png'),
                         name: "LE temps est venu",
                         description: {
                             features: [
@@ -92,6 +97,7 @@
                     },
                     {
                         key: 'kdjde87857743299438DDD4',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/6.a.png'),
                         name: "Demain, vous voterez l'abolition de la peine de mort",
                         description: {
                             features: [
@@ -107,6 +113,7 @@
                     },
                     {
                         key: 'kdjd2e87843299435454',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/7.a.png'),
                         name: "Nations nègres et culture",
                         description: {
                             features: [
@@ -122,6 +129,7 @@
                     },
                     {
                         key: 'kdjd2e8784329943592454',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/8.a.png'),
                         name: "la religion africaine",
                         description: {
                             features: [
@@ -137,6 +145,7 @@
                     },
                     {
                         key: 'kdjd2e8784332329943592454',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/9.a.png'),
                         name: "une si longue lettre",
                         description: {
                             features: [
@@ -152,6 +161,7 @@
                     },
                      {
                         key: 'kdjd2e87843326n329943592454',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/10.a.png'),
                         name: "les bouts de bois de Dieu",
                         description: {
                             features: [
@@ -167,6 +177,7 @@
                     },
                     {
                         key: 'kdjd62e87843299443885454',
+                        imgUrl:require('../images/pictures/litterature_africaine/products/11.a.png'),
                         name: "Contes initiatiques peuls",
                         description: {
                             features: [
@@ -190,6 +201,7 @@
                 produits: [
                     {
                         key: 'kdjde878432978787894384',
+                        imgUrl:require('../images/pictures/bd/products/1.a.png'),
                         name: "Tintin au Tibet",
                         description: {
                             info:'teleephon samsunf kjfjkkdfffjfjh',
@@ -207,6 +219,7 @@
                     },
                     {
                         key: 'kdjdDFFGe8w2478432994g84384',
+                        imgUrl:require('../images/pictures/bd/products/2.a.png'),
                         name: "les bijoux de la castafiore",
                         description: {
                             features: [
@@ -223,6 +236,7 @@
                     },
                     {
                         key: 'kdjde487478fi874484329943YY84',
+                        imgUrl:require('../images/pictures/bd/products/3.a.png'),
                         name: "le buveur d'encre",
                         description: {
                             features: [
@@ -238,6 +252,7 @@
                     },
                     {
                         key: 'kdjde87843jh43e8482994384',
+                        imgUrl:require('../images/pictures/bd/products/4.a.png'),
                         name: "le temps des Secrets",
                         description: {
                             features: [
@@ -252,6 +267,7 @@
                     },
                     {
                         key: 'kdjde84ff755858432994384',
+                        imgUrl:require('../images/pictures/bd/products/5.a.png'),
                         name: "le livre qui fuit",
                         description: {
                             features: [
@@ -267,6 +283,7 @@
                     },
                     {
                         key: 'kdjde87857743299436gFFG8DDD4',
+                        imgUrl:require('../images/pictures/bd/products/6.a.png'),
                         name: "Le bureau Des mots Perdus",
                         description: {
                             features: [
@@ -282,6 +299,7 @@
                     },
                     {
                         key: 'kdjd2e878432uy9GR9435xxs454',
+                        imgUrl:require('../images/pictures/bd/products/7.a.png'),
                         name: "le club des cinq et le trésor de l'ile",
                         description: {
                             features: [
@@ -297,6 +315,7 @@
                     },
                     {
                         key: 'kdjd2e87843299EEER43592454',
+                        imgUrl:require('../images/pictures/bd/products/8.a.png'),
                         name: "Retour sur Aldebaran",
                         description: {
                             features: [
@@ -312,6 +331,7 @@
                     },
                     {
                         key: 'kdjd62e8784329944DEE38856885454',
+                        imgUrl:require('../images/pictures/bd/products/9.a.png'),
                         name: "ASTERIX ET LA TRANSITALIQUE",
                         description: {
                             features: [
@@ -327,6 +347,7 @@
                     },
                     {
                         key: 'kdjd62e878432994446HDEE38856885454',
+                        imgUrl:require('../images/pictures/bd/products/10.a.png'),
                         name: "naruto",
                         description: {
                             features: [
@@ -334,8 +355,8 @@
                             ],
                             provenance: "Asie japon"
                         },
-                        productImg: [ require('../images/pictures/bd/products/9.b.jpg'), 
-                                     require('../images/pictures/bd/products/9.a.jpg'),],
+                        productImg: [ require('../images/pictures/bd/products/10.a.jpg'), 
+                                     require('../images/pictures/bd/products/10.b.jpg'),],
                         views: '358RR0',
                         wishList: '314',
 
@@ -350,6 +371,7 @@
                 produits: [
                     {
                         key: 'kdjde878432978787894384',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/1.a.png'),
                         name: "Les 5 bessures qui empêchent d'être soi-même",
                         description: {
                             features: [
@@ -366,6 +388,7 @@
                     },
                     {
                         key: 'kdjdDFFGe8w2478432GE994g84384',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/2.a.png'),
                         name: "PERE RICHE , PERE PAUVRE",
                         description: {
                             features: [
@@ -380,6 +403,7 @@
                     },
                     {
                         key: 'kdjde487478fi873R4484329943YY84',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/3.a.png'),
                         name: "LA MAGIE DE VOIR GRAND",
                         description: {
                             features: [
@@ -395,6 +419,7 @@
                     },
                     {
                         key: 'kdjde8783FDD43jh48482994384',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/4.a.png'),
                         name: "CONFIANCE ILLIMITÉE",
                         description: {
                             features: [
@@ -410,6 +435,7 @@
                     },
                     {
                         key: 'kdjde84ff755858432994YTT384',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/5.a.png'),
                         name: "LE DICTIONNAIRE MODERNE",
                         description: {
                             features: [
@@ -424,6 +450,7 @@
                     },
                     {
                         key: 'kdjde8785774329FF9436gFFG8D32DD4',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/6.a.png'),
                         name: "L'ARABE DU FUTUR 4",
                         description: {
                             features: [
@@ -438,6 +465,7 @@
                     },
                     {
                         key: 'kdjd2e878FFJKR9GR9435xxs454',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/7.a.png'),
                         name: "TOUT LE MONDE MERITE D'ETRE RICHE",
                         description: {
                             features: [
@@ -453,6 +481,7 @@
                     },
                     {
                         key: 'kdjd2e8784329FLKFER43592454',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/8.a.png'),
                         name: "JE VOULAIS JUSTE QUE ÇA S'ARRÊTE",
                         description: {
                             features: [
@@ -467,6 +496,7 @@
                     },
                     {
                         key: 'kdjd62e8784329KFJ8454',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/9.a.png'),
                         name: "LES QUATRE ACCCORDS TOLTÈQUES",
                         description: {
                             features: [
@@ -483,6 +513,7 @@
                     },
                     {
                         key: 'kdjd62e87LFKIR885454',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/10.a.png'),
                         name: "RÉFLÉCHISSEZ ET DEVENEZ RICHE",
                         description: {
                             features: [
@@ -498,6 +529,7 @@
                     },
                     {
                         key: 'kdjdF4KIR885454',
+                        imgUrl:require('../images/pictures/livres_etrangers/products/11.a.png'),
                         name: "CHANGE LE MONDE , ÇA TIENT QU'À NOUS...",
                         description: {
                             features: [
@@ -524,6 +556,7 @@
                 produits: [
                     {
                         key: 'kdjde8784329787r287894384',
+                        imgUrl:require('../images/pictures/religions/products/1.a.png'),
                         name: "EDUCATION ISLAMIQUE",
                         description: {
                             features: [
@@ -540,6 +573,7 @@
                     },
                     {
                         key: 'FFFF6D2VFFFGF',
+                        imgUrl:require('../images/pictures/religions/products/2.a.png'),
                         name: "EXPLICATION DU HADITH DE JIDAIL",
                         description: {
                             features: [
@@ -555,6 +589,7 @@
                     },
                     {
                         key: 'kdjdeGGiFFVT9943YY84',
+                        imgUrl:require('../images/pictures/religions/products/3.a.png'),
                         name: "LES DROITS DES CROYANTES",
                         description: {
                             features: [
@@ -569,6 +604,7 @@
                     },
                     {
                         key: 'kdjdVL94LF384',
+                        imgUrl:require('../images/pictures/religions/products/4.a.png'),
                         name: "IL ETAIT UNE FOI, L'ISLAM...",
                         description: {
                             features: [
@@ -584,6 +620,7 @@
                     },
                     {
                         key: 'kdjde84ff755858432994YTT384',
+                        imgUrl:require('../images/pictures/religions/products/5.a.png'),
                         name: "HONNEUR ET DIGNITÉ DE LA FEMME EN ISLAM",
                         description: {
                             features: [
@@ -599,6 +636,7 @@
                     },
                     {
                         key: 'kdjde87FFFF85774329FF9436gFFG8D32DD4',
+                        imgUrl:require('../images/pictures/religions/products/6.a.png'),
                         name: "L'OBLIGATION DE VÉRIFIER LES INFORMATIONS ET DE RESPECTER LES SAVANTS",
                         description: {
                             features: [
@@ -614,6 +652,7 @@
                     },
                     {
                         key: 'kdjd2e878FFJKR9GR9435xxs4FDE54',
+                        imgUrl:require('../images/pictures/religions/products/7.a.png'),
                         name: "LA SINCÉRITÉ ET SON EFFET SUR L'UNITÉ DES MUSULMANS",
                         description: {
                             features: [
@@ -629,6 +668,7 @@
                     },
                     {
                         key: 'kdjd2e8784329FLKFER43592454',
+                        imgUrl:require('../images/pictures/religions/products/8.a.png'),
                         name: "LA SAINTE BIBLE",
                         description: {
                             features: [
@@ -644,6 +684,7 @@
                     },
                     {
                         key: 'kdjd62e878JDJ729KFJ8454',
+                        imgUrl:require('../images/pictures/religions/products/9.a.png'),
                         name: "LES CONDITIONS DE LA PRIÈRE ",
                         description: {
                             features: [
@@ -659,6 +700,7 @@
                     },
                     {
                         key: 'kdjd62e87LFKIR88TRT535454',
+                        imgUrl:require('../images/pictures/religions/products/10.a.png'),
                         name: "L'ÉVANGILE DE THOMAS",
                         description: {
                             features: [
@@ -676,6 +718,7 @@
                     },
                     {
                         key: 'kdjdF4KI65R885454',
+                        imgUrl:require('../images/pictures/religions/products/11.a.png'),
                         name: "LES CAUSES DU BONHEUR FAMILIAL",
                         description: {
                             features: [
@@ -692,6 +735,7 @@
                     },
                     {
                         key: 'kdjdF4KIR8TR585454',
+                        imgUrl:require('../images/pictures/religions/products/11.a.png'),
                         name: "LA BIBLE",
                         description: {
                             features: [
