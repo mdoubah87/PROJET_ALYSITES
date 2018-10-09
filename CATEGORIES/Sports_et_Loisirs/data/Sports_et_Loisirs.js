@@ -222,7 +222,7 @@
             {
                 key: 'dFFR556hgT7',
                 imgUrl: require('../Images/Sneakers/S.png'),
-                name: '',
+                name: 'Sneakers',
                 products: [
                     {
                         key: 'dFFR556h234',
