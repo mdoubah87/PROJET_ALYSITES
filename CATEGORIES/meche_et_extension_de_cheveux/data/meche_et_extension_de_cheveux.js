@@ -209,213 +209,204 @@
 
 
             {
-                key: 'MephARt556kI9',
-                imgUrl: require(''),
+                key: 'MephARcVV5',
+                imgUrl: require('../Images/Perruque humaine/P1/P.png'),
                 name: 'Cheveux Perruques',
                     products: [
                         {
-                            key: 'MephARt556kI9',
-                            imgUrl: require(''),
-                            name: "",
+                            key: 'MephARtfAPoil9',
+                            imgUrl: require('../Images/Perruque humaine/P1/P11.png'),
+                            name: "Court Cheveux",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: "court Cheveux humains des Perruques pour femme noire 100% non transformés court Pixie mignon Perruque gratuit supplémentaire Cheveux brésiliens Perruques 85 g Perruque courte pour femme noire peuvent être teints et blanchi courte des Perruques Couleur naturelle",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Perruque humaine/P1/P12.png'),
+                                require('../Images/Perruque humaine/P1/P13.png'),
+                                require('../Images/Perruque humaine/P1/P14.png'),
+                                require('../Images/Perruque humaine/P1/P15.png'),
                             ],
-                            views: "",
-                            wishlist: "",
+                            views: "8719",
+                            wishlist: "901",
                         },
                         {
-                            key: 'MephARt556kI9',
-                            imgUrl: require(''),
-                            name: "",
+                            key: 'MephARt5Gnn9',
+                            imgUrl: require('../Images/Perruque humaine/P2/P21.png'),
+                            name: "Cheveux Raides Swisse",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: "Lace Frontal Cheveux Raides Swisse Lace Front Scalp Pas de Shedding ou Tangle 30CM  Noir Naturel  Densité:130%",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Perruque humaine/P2/P21.png'),
+                                require('../Images/Perruque humaine/P2/P22.png'),
+                                require('../Images/Perruque humaine/P2/P23.png'),
+                                require('../Images/Perruque humaine/P2/P24.png'),
                             ],
-                            views: "",
-                            wishlist: "",
+                            views: "5492",
+                            wishlist: "577",
                         },
                         {
-                            key: 'MephARt556kI9',
-                            imgUrl: require(''),
-                            name: "",
+                            key: 'MephARgg33edS4',
+                            imgUrl: require('../Images/Perruque humaine/P3/P31.png'),
+                            name: "Platinumhair synthétique ",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: "Platinumhair synthétique Lace Front Perruque Noir crépus frisés Perruque 10% de cheveux humains 90% résistant à la chaleur Fibre Perruques avec cheveux de bébé pour femme 66 cm",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Perruque humaine/P3/P31.png'),
+                                require('../Images/Perruque humaine/P3/P32.png'),
+                                require('../Images/Perruque humaine/P3/P33.png'),
+                                require('../Images/Perruque humaine/P3/P34.png'),
                             ],
-                            views: "",
-                            wishlist: "",
+                            views: "9811",
+                            wishlist: "765",
                         },
                         {
-                            key: 'MephARt556kI9',
-                            imgUrl: require(''),
-                            name: "",
+                            key: 'MephARt99NJJu1',
+                            imgUrl: require('../Images/Perruque humaine/P4/P41.png'),
+                            name: "Maxine Perruque",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: "Maxine Perruque à dentelle frontale intégrale, Cheveux brésiliens vierges non transformés avec cheveux de bébé sur le tour, 100 % cheveux humains, Pour femmes noires, 180 % de densité",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Perruque humaine/P4/P42.png'),
+                                require('../Images/Perruque humaine/P4/P43.png'),
+                                require('../Images/Perruque humaine/P4/P44.png'),
+                                require('../Images/Perruque humaine/P4/P45.png'),
                             ],
-                            views: "",
-                            wishlist: "",
+                            views: "4560",
+                            wishlist: "723",
                         },
                         {
-                            key: 'MephARt556kI9',
-                            imgUrl: require(''),
-                            name: "",
+                            key: 'MephARtg21BBH01',
+                            imgUrl: require('../Images/Perruque humaine/P5/P51.png'),
+                            name: "Falamka Long ondulés",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: "Falamka Long ondulés Cheveux résistant à la chaleur Multicolore Cosplay Perruque (Rouge) ",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Perruque humaine/P5/P51.png'),
+                                require('../Images/Perruque humaine/P5/P52.png'),
+                                require('../Images/Perruque humaine/P5/P53.png'),
+                                require('../Images/Perruque humaine/P5/P4.png'),
                             ],
-                            views: "",
-                            wishlist: "",
+                            views: "1191",
+                            wishlist: "1091",
                         },
                         {
-                            key: 'MephARt556kI9',
-                            imgUrl: require(''),
-                            name: "",
+                            key: 'MephZeRT7609',
+                            imgUrl: require('../Images/Perruque humaine/P6/P61.png'),
+                            name: "Harley Quinn",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: "Harley Quinn Femmes cosplay perruque longue perruque Anime cosplay perruque Cheveux bouclés (noir + rouge)",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Perruque humaine/P6/P62.png'),
+                                require('../Images/Perruque humaine/P6/P63.png'),
+                                require('../Images/Perruque humaine/P6/P64.png'),
+                                require('../Images/Perruque humaine/P6/P65.png'),
                             ],
-                            views: "",
-                            wishlist: "",
+                            views: "5699",
+                            wishlist: "653",
                         },
                         {
-                            key: 'MephARt556kI9',
-                            imgUrl: require(''),
-                            name: "",
+                            key: 'MepSDFre454t5',
+                            imgUrl: require('../Images/Perruque humaine/P7/P71.png'),
+                            name: "Perruque Auburn ",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: "HANNE - Perruque de cheveux longs bouclés synthétiques - Marron avec dégradé - Résistante à la chaleur - Cosplay/fête",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Perruque humaine/P7/P72.png'),
+                                require('../Images/Perruque humaine/P7/P73.png'),
+                                require('../Images/Perruque humaine/P7/P74.png'),
+                                require('../Images/Perruque humaine/P7/P75.png'),
                             ],
-                            views: "",
-                            wishlist: "",
+                            views: "4001",
+                            wishlist: "551",
                         },
                         {
-                            key: 'MephARt556kI9',
-                            imgUrl: require(''),
-                            name: "",
+                            key: 'Mephff554kI0',
+                            imgUrl: require('../Images/Perruque humaine/P8/P81.png'),
+                            name: "Songmics",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: "Nouvelle Perruque Femme Ondulée Longue 66cm WFY016.",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Perruque humaine/P8/P82.png'),
+                                require('../Images/Perruque humaine/P8/P83.png'),
+                                require('../Images/Perruque humaine/P8/P84.png'),
+                                require('../Images/Perruque humaine/P8/P85.png'),
                             ],
-                            views: "",
-                            wishlist: "",
+                            views: "4543",
+                            wishlist: "806",
                         },
                         {
-                            key: 'MephARt556kI9',
-                            imgUrl: require(''),
-                            name: "",
+                            key: 'MephmAz762TyU8',
+                            imgUrl: require('../Images/Perruque humaine/P9/P91.png'),
+                            name: "Mélange Blond Auburn",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: "Cosplay Perruque Longue Naturel Waves Femmes",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Perruque humaine/P9/P92.png'),
+                                require('../Images/Perruque humaine/P9/P93.png'),
+                                require('../Images/Perruque humaine/P9/P94.png'),
+                                require('../Images/Perruque humaine/P9/P95.png'),
+                                require('../Images/Perruque humaine/P9/P96.png'),
                             ],
-                            views: "",
-                            wishlist: "",
+                            views: "9001",
+                            wishlist: "5671",
                         },
                         {
-                            key: 'MephARt556kI9',
-                            imgUrl: require(''),
-                            name: "",
+                            key: 'MephARt516kI4',
+                            imgUrl: require('../Images/Perruque humaine/P10/P101.png'),
+                            name: "Perruques bouclées",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: "Perruques bouclées longues de Golden Rule pour les femmes, perruque de mode de partie latérale synthétique noire d'Afro ",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Perruque humaine/P10/P102.png'),
+                                require('../Images/Perruque humaine/P10/P103.png'),
+                                require('../Images/Perruque humaine/P10/P104.png'),
+                                require('../Images/Perruque humaine/P10/P105.png'),
                             ],
-                            views: "",
-                            wishlist: "",
+                            views: "10098",
+                            wishlist: "6765",
                         },
                     ]
             },
-            
+
 
 
 
@@ -440,27 +431,25 @@
                                 require(''),
                                 require(''),
                                 require(''),
-                                require(''),
                             ],
                             views: "",
                             wishlist: "",
                         },
                         {
                             key: 'MeAdjjfLIEJFH76',
-                            imgUrl: require(''),
+                            imgUrl: require('../Images/Outils et Accessoires/P1/'),
                             name: "",
                             description: {
                                 features: [{
-                                    info: "",
+                                    info: " ",
                                 },]
                                 
                             },
                             productsImg: [
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
-                                require(''),
+                                require('../Images/Outils et Accessoires/P1/'),
+                                require('../Images/Outils et Accessoires/P1/'),
+                                require('../Images/Outils et Accessoires/P1/'),
+                                require('../Images/Outils et Accessoires/P1/'),
                             ],
                             views: "",
                             wishlist: "",
