@@ -10,7 +10,7 @@
                 key: '12e3r',
                 imgUrl: require('../images/pictures/litterature_africaine/africa.png'),
                 name: 'litterature africaine',
-                produits: [
+                products: [
                     {
                         key: 'kdjde878432994384',
                         imgUrl:require('../images/pictures/litterature_africaine/products/1.a.png'),
@@ -198,7 +198,7 @@
                 key: '12e3655r',
                 imgUrl: require('../images/pictures/bd/1.png'),
                 name: 'BD(Bande desinée)',
-                produits: [
+                products: [
                     {
                         key: 'kdjde878432dd978787894384',
                         imgUrl:require('../images/pictures/bd/products/1.a.png'),
@@ -368,7 +368,7 @@
                 key: '12efjhf3655r',
                 imgUrl: require('../images/pictures/livres_etrangers/1.png'),
                 name: 'Livres Etrangers',
-                produits: [
+                products: [
                     {
                         key: 'kdjde878432978787894384',
                         imgUrl:require('../images/pictures/livres_etrangers/products/1.a.png'),
@@ -553,7 +553,7 @@
                 key: '12efjhddf3654G45r',
                 imgUrl: require('../images/pictures/religions/1.png'),
                 name: 'RELIGIONS',
-                produits: [
+                products: [
                     {
                         key: 'kdjde8784329787r287894384',
                         imgUrl:require('../images/pictures/religions/products/1.a.png'),
@@ -757,7 +757,7 @@
                 key: '12efjhfffr4f3654G45r',
                 imgUrl: require('../images/pictures/cuisine/1.png'),
                 name: 'cuisine',
-                produits: [
+                products: [
                     {
                         
                     },
@@ -767,7 +767,7 @@
                 key: '12efjhf3654Gg54445r',
                 imgUrl: require('../images/pictures/sante_et_bien_etre/1.png'),
                 name: 'sante_et_bien_etre',
-                produits: [
+                products: [
                     {
                         
                     },
