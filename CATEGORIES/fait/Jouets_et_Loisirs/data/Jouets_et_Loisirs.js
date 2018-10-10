@@ -54,7 +54,7 @@
             {
                 key: 'fyuu6578ts5rrre3',
                 imgUrl: require('../images/pictures/Passe-temps/1.png'),
-                name: 'Passe-temps & collectibles',
+                name: 'Passe-temps & collectif',
                 products: 
                 [
                     {
