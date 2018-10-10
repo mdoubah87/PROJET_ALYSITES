@@ -10,7 +10,7 @@
                 key: '12ejhfd3r',
                 imgUrl: require('../images/pictures/pantalon/1.png'),
                 name: 'Pantalon',
-                produits: [
+                products: [
                     {
                         key: 'kdjde878432jdhjd994384',
                         imgUrl:require('../images/pictures/pantalon/products/1.a.png'),
@@ -198,7 +198,7 @@
                 key: '12ejhhfe120d3r',
                 imgUrl: require('../images/pictures/accessoires/1.png'),
                 name: 'accessoires',
-                produits: 
+                products: 
                 [
                     {
                         key: 'kdjde878432jdh4jd994384',
@@ -384,7 +384,7 @@
                 key: '12ejh45fghfe120d3r',
                 imgUrl: require('../images/pictures/chemises/1.png'),
                 name: 'chemises',
-                produits: 
+                products: 
                 [
                     {
                         key: 'kdjde878f68jd994384',
@@ -555,7 +555,7 @@
                 key: '12ejh45fghfe120gg2d3r',
                 imgUrl: require('../images/pictures/costumes/1.png'),
                 name: 'Costume et blazers ',
-                produits: 
+                products: 
                 [
                     {
                         key: 'kdjde87568jd4r994384',
@@ -725,7 +725,7 @@
                 key: '12ejh45fghffdfgefe120gg2d3r',
                 imgUrl: require('../images/pictures/t-shirt/1.png'),
                 name: 't-shirt ',
-                produits: 
+                products: 
                 [
                     {
                         
@@ -736,7 +736,7 @@
                 key: '12ejh45fghffdfgefe12yjyt0gg2d3r',
                 imgUrl: require('../images/pictures/manteaux/1.png'),
                 name: 'manteaux ',
-                produits: 
+                products: 
                 [
                     {
                         
@@ -747,7 +747,7 @@
                 key: 'yyyjnvh67676fghjhhhjhjh',
                 imgUrl: require('../images/pictures/pulls/1.png'),
                 name: 'pulls ',
-                produits: 
+                products: 
                 [
                     {
                         
@@ -758,7 +758,7 @@
                 key: 'fyuu6578ts5e3',
                 imgUrl: require('../images/pictures/sous_vetement/1.png'),
                 name: 'sous vetement',
-                produits: 
+                products: 
                 [
                     {
                         
