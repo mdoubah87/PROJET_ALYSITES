@@ -1547,6 +1547,7 @@
             
         ],
     }, 
+    
     {
         key: 'jvcxf72zx1398jhf76',
         imgUrl: require('../images/phone.png'),
@@ -1765,10 +1766,10 @@
                     {
                         key: 'Gfdsr43ik',
                         imgUrl: require('../images/Accessoires/P1/p16.jpg'),
-                        name: "Coq de Téléphone",
+                        name: "coque de Téléphone",
                         description: {
                             features: [{
-                                info: "Les meilleures Coq de téléphone",
+                                info: "Les meilleures Coque de téléphone",
                             },]
                             
                         },
