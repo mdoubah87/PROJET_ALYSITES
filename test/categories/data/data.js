@@ -48,7 +48,7 @@
                     {
                         key: 'kdjde487478fi878432994384',
                         imgUrl:require('../images/pictures/litterature_africaine/products/3.a.png'),
-                        name: "la pricesse AFRICAINE sur la route de zimbaboué",
+                        name: "la princesse AFRICAINE sur la route de zimbaboué",
                         description: {
                             features: [
                                 {autor: "Chritel Mouchard "}, {editor: "Flammarion"}
