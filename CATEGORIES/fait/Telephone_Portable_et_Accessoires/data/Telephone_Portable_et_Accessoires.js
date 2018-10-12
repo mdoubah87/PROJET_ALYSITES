@@ -109,7 +109,7 @@
 
             {
                 key: 'jvxf706zx1371jhd11',
-                imgUrl: require('../Images/Chargeur/p.jpg'),
+                imgUrl: require('../Images/Chargeur/p.png'),
                 name: 'Chargeur Universel Téléphone',
                     products: [
                         {
@@ -121,17 +121,17 @@
                                 
                             },
                             productsImg: [
-                                require('../Images/Chargeur/P1/p11.jpg'),
-                                require('../Images/Chargeur/P1/p12.jpg'),
-                                require('../Images/Chargeur/P1/p13.jpg'),
-                                require('../Images/Chargeur/P1/p14.jpg'),
+                                require('../Images/Chargeur/P1/p11.png'),
+                                require('../Images/Chargeur/P1/p12.png'),
+                                require('../Images/Chargeur/P1/p13.png'),
+                                require('../Images/Chargeur/P1/p14.png'),
                             ],
                             views: "2765",
                             wishlist: "628",
                         },
                         {
                             key: 'jvxf706zx1371jhd11',
-                            imgUrl: require('../Images/Chargeur/P2/p21.jpg'),
+                            imgUrl: require('../Images/Chargeur/P2/p21.png'),
                             name: "Chargeur PHILIPS",
                             description: {
                                 features: [{
@@ -140,16 +140,16 @@
                                 
                             },
                             productsImg: [
-                                require('../Images/Chargeur/P2/p22.jpg'),
-                                require('../Images/Chargeur/P2/p23.jpg'),
-                                require('../Images/Chargeur/P2/p24.jpg'),
+                                require('../Images/Chargeur/P2/p22.png'),
+                                require('../Images/Chargeur/P2/p23.png'),
+                                require('../Images/Chargeur/P2/p24.png'),
                             ],
                             views: "6729",
                             wishlist: "423",
                         },
                         {
                             key: 'jjhdh567j2',
-                            imgUrl: require('../Images/Chargeur/P3/p31.jpg'),
+                            imgUrl: require('../Images/Chargeur/P3/p31.png'),
                             name: "Chargeur sans fil",
                             description: {
                                 features: [{
@@ -158,17 +158,17 @@
                                 
                             },
                             productsImg: [
-                                require('../Images/Chargeur/P3/p32.jpg'),
-                                require('../Images/Chargeur/P3/p33.jpg'),
-                                require('../Images/Chargeur/P3/p34.jpg'),
-                                require('../Images/Chargeur/P3/p35.jpg'),
+                                require('../Images/Chargeur/P3/p32.png'),
+                                require('../Images/Chargeur/P3/p33.png'),
+                                require('../Images/Chargeur/P3/p34.png'),
+                                require('../Images/Chargeur/P3/p35.png'),
                             ],
                             views: "6758",
                             wishlist: "333",
                         },
                         {
                             key: 'fghdh567g43',
-                            imgUrl: require('../Images/Chargeur/P4/p41.jpg'),
+                            imgUrl: require('../Images/Chargeur/P4/p41.png'),
                             name: "Chargeur Bluetooth",
                             description: {
                                 features: [{
@@ -177,16 +177,16 @@
                                 
                             },
                             productsImg: [
-                                require('../Images/Chargeur/P4/p42.jpg'),
-                                require('../Images/Chargeur/P4/p43.jpg'),
-                                require('../Images/Chargeur/P4/p44.jpg'),
+                                require('../Images/Chargeur/P4/p42.png'),
+                                require('../Images/Chargeur/P4/p43.png'),
+                                require('../Images/Chargeur/P4/p44.png'),
                             ],
                             views: "3148",
                             wishlist: "897",
                         },
                         {
                             key: 'jjhdh554hgf8',
-                            imgUrl: require('../Images/Chargeur/P5/p51.jpg'),
+                            imgUrl: require('../Images/Chargeur/P5/p51.png'),
                             name: "Chargeur Multifonction",
                             description: {
                                 features: [{
@@ -195,13 +195,32 @@
                                 
                             },
                             productsImg: [
-                                require('../Images/Chargeur/P5/p52.jpg'),
-                                require('../Images/Chargeur/P5/p53.jpg'),
-                                require('../Images/Chargeur/P5/p54.jpg'),
-                                require('../Images/Chargeur/P5/p55.jpg'),
+                                require('../Images/Chargeur/P5/p52.png'),
+                                require('../Images/Chargeur/P5/p53.png'),
+                                require('../Images/Chargeur/P5/p54.png'),
+                                require('../Images/Chargeur/P5/p55.png'),
                             ],
                             views: "4445",
                             wishlist: "765",
+                        },
+                        {
+                            key: 'jjhdhgTTy67',
+                            imgUrl: require('../Images/Chargeur/P6/p61.png'),
+                            name: "Chargeur Murale USB",
+                            description: {
+                                features: [{
+                                    info: "5V 2.4A interchangeable 4 ports usb wall charger",
+                                },]
+                                
+                            },
+                            productsImg: [
+                                require('../Images/Chargeur/P6/p62.png'),
+                                require('../Images/Chargeur/P6/p63.png'),
+                                require('../Images/Chargeur/P6/p64.png'),
+                                require('../Images/Chargeur/P6/p65.png'),
+                            ],
+                            views: "6590",
+                            wishlist: "2345",
                         },
 
 
