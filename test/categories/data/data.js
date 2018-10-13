@@ -21,7 +21,7 @@
                             ],
                             provenance: "Afrique Sénégal"
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/1.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/1.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/1.b.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/1.c.jpg'),],
                         views: '1000',
@@ -38,7 +38,7 @@
                             ],
                             provenance: "Afrique Sénégal"
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/2.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/2.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/2.b.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/2.c.jpg'),],
                         views: '10000',
@@ -55,7 +55,7 @@
                             ],
                             provenance: "Afrique "
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/3.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/3.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/3.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/3.a.jpg'),],
                         views: '100',
@@ -72,7 +72,7 @@
                             ],
                             provenance: "Afrique"
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/4.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/4.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/4.b.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/4.c.jpg'),],
                         views: '200',
@@ -89,7 +89,7 @@
                             ],
                             provenance: "Afrique "
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/5.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/5.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/5.b.jpg'),],
                         views: '2586',
                         wishList: '234',
@@ -105,7 +105,7 @@
                             ],
                             provenance: "Afrique"
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/6.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/6.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/6.b.jpg'),],
                         views: '381',
                         wishList: '11',
@@ -121,7 +121,7 @@
                             ],
                             provenance: "Afrique Sénégal"
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/7.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/7.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/7.b.jpg'),],
                         views: '1800',
                         wishList: '630',
@@ -137,7 +137,7 @@
                             ],
                             provenance: "Afrique cameroun"
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/8.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/8.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/8.b.jpg'),],
                         views: '1804',
                         wishList: '730',
@@ -153,7 +153,7 @@
                             ],
                             provenance: "Afrique senegal"
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/9.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/9.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/9.b.jpg'),],
                         views: '1804',
                         wishList: '730',
@@ -169,7 +169,7 @@
                             ],
                             provenance: "Afrique senegal"
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/10.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/10.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/10.b.jpg'),],
                         views: '1804',
                         wishList: '730',
@@ -185,7 +185,7 @@
                             ],
                             provenance: "Afrique guinée"
                         },
-                        productImg: [ require('../images/pictures/litterature_africaine/products/11.a.jpg'), 
+                        productsImg: [ require('../images/pictures/litterature_africaine/products/11.a.jpg'), 
                                      require('../images/pictures/litterature_africaine/products/11.b.jpg'),],
                         views: '3580',
                         wishList: '314',
@@ -210,7 +210,7 @@
                             ],
                             provenance: "europe france"
                         },
-                        productImg: [ require('../images/pictures/bd/products/1.a.jpg'), 
+                        productsImg: [ require('../images/pictures/bd/products/1.a.jpg'), 
                                      require('../images/pictures/bd/products/1.b.jpg'), 
                                      require('../images/pictures/bd/products/1.c.jpg'),],
                         views: '16518',
@@ -227,7 +227,7 @@
                             ],
                             provenance: "europe france"
                         },
-                        productImg: [ require('../images/pictures/bd/products/2.a.jpg'), 
+                        productsImg: [ require('../images/pictures/bd/products/2.a.jpg'), 
                                      require('../images/pictures/bd/products/2.b.jpg'), 
                                      require('../images/pictures/bd/products/2.c.jpg'),],
                         views: '1200',
@@ -244,7 +244,7 @@
                             ],
                             provenance: "europe france "
                         },
-                        productImg: [ require('../images/pictures/bd/products/3.a.jpg'), 
+                        productsImg: [ require('../images/pictures/bd/products/3.a.jpg'), 
                                      require('../images/pictures/bd/products/3.b.jpg'),],
                         views: '800',
                         wishList: '620',
@@ -260,7 +260,7 @@
                             ],
                             provenance: "Europe , belgique"
                         },
-                        productImg: [ require('../images/pictures/bd/products/4.a.jpg'), ],
+                        productsImg: [ require('../images/pictures/bd/products/4.a.jpg'), ],
                         views: '200',
                         wishList: '15',
 
@@ -275,7 +275,7 @@
                             ],
                             provenance: "europe france "
                         },
-                        productImg: [ require('../images/pictures/bd/products/5.a.jpg'), 
+                        productsImg: [ require('../images/pictures/bd/products/5.a.jpg'), 
                                      require('../images/pictures/bd/products/5.b.jpg'),],
                         views: '2586',
                         wishList: '234',
@@ -291,7 +291,7 @@
                             ],
                             provenance: "europe france"
                         },
-                        productImg: [ require('../images/pictures/bd/products/6.a.jpg'), 
+                        productsImg: [ require('../images/pictures/bd/products/6.a.jpg'), 
                                      require('../images/pictures/bd/products/6.a.jpg'),],
                         views: '3831',
                         wishList: '131',
@@ -307,7 +307,7 @@
                             ],
                             provenance: "Europe France"
                         },
-                        productImg: [ require('../images/pictures/bd/products/7.a.jpg'), 
+                        productsImg: [ require('../images/pictures/bd/products/7.a.jpg'), 
                                      require('../images/pictures/bd/products/7.a.jpg'),],
                         views: '1850',
                         wishList: '630',
@@ -323,7 +323,7 @@
                             ],
                             provenance: "USA"
                         },
-                        productImg: [ require('../images/pictures/bd/products/8.a.jpg'), 
+                        productsImg: [ require('../images/pictures/bd/products/8.a.jpg'), 
                                      require('../images/pictures/bd/products/8.b.jpg'),],
                         views: '1804',
                         wishList: '730',
@@ -339,7 +339,7 @@
                             ],
                             provenance: "EUROPE FRANCE"
                         },
-                        productImg: [ require('../images/pictures/bd/products/9.a.jpg'), 
+                        productsImg: [ require('../images/pictures/bd/products/9.a.jpg'), 
                                      require('../images/pictures/bd/products/9.b.jpg'),],
                         views: '358RR0',
                         wishList: '31F 4',
@@ -355,7 +355,7 @@
                             ],
                             provenance: "Asie japon"
                         },
-                        productImg: [ require('../images/pictures/bd/products/10.a.jpg'), 
+                        productsImg: [ require('../images/pictures/bd/products/10.a.jpg'), 
                                      require('../images/pictures/bd/products/10.b.jpg'),],
                         views: '358RR0',
                         wishList: '314',
@@ -379,7 +379,7 @@
                             ],
                             provenance: "AMERIQUE USA"
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/1.a.jpg'), 
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/1.a.jpg'), 
                                      require('../images/pictures/livres_etrangers/products/1.b.jpg'), 
                                      require('../images/pictures/livres_etrangers/products/1.c.jpg'),],
                         views: '16518',
@@ -396,7 +396,7 @@
                             ],
                             provenance: ""
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/2.a.jpg'),],
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/2.a.jpg'),],
                         views: '1250',
                         wishList: '630',
 
@@ -411,7 +411,7 @@
                             ],
                             provenance: "EUROPE FRANCE"
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/3.a.jpg'), 
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/3.a.jpg'), 
                                      require('../images/pictures/livres_etrangers/products/3.b.jpg'),],
                         views: '802',
                         wishList: '623',
@@ -427,7 +427,7 @@
                             ],
                             provenance: "Afrique"
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/4.a.jpg'), 
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/4.a.jpg'), 
                                      require('../images/pictures/livres_etrangers/products/4.b.jpg'), ],
                         views: '226',
                         wishList: '152',
@@ -443,7 +443,7 @@
                             ],
                             provenance: "europe france "
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/5.a.jpg'), ],
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/5.a.jpg'), ],
                         views: '2586',
                         wishList: '2334',
 
@@ -458,7 +458,7 @@
                             ],
                             provenance: "ARABIE SAOUDITE"
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/6.a.jpg')],
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/6.a.jpg')],
                         views: '3801',
                         wishList: '101',
 
@@ -473,7 +473,7 @@
                             ],
                             provenance: "Europe France"
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/7.a.jpg'), 
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/7.a.jpg'), 
                                      require('../images/pictures/livres_etrangers/products/7.a.jpg'),],
                         views: '1850',
                         wishList: '630',
@@ -489,7 +489,7 @@
                             ],
                             provenance: "FRANCE"
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/8.a.jpg'),],
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/8.a.jpg'),],
                         views: '1804',
                         wishList: '730',
 
@@ -504,7 +504,7 @@
                             ],
                             provenance: "AMERIQUE MEXIQUE"
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/9.a.jpg'), 
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/9.a.jpg'), 
                                      require('../images/pictures/livres_etrangers/products/9.b.jpg'),, 
                                      require('../images/pictures/livres_etrangers/products/9.C.jpg')],
                         views: '3580',
@@ -521,7 +521,7 @@
                             ],
                             provenance: "AMERIQUE USA"
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/10.b.jpg'), 
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/10.b.jpg'), 
                                      require('../images/pictures/livres_etrangers/products/10.a.jpg'),],
                         views: '3580',
                         wishList: '3124',
@@ -537,7 +537,7 @@
                             ],
                             provenance: "AMERIQUE USA"
                         },
-                        productImg: [ require('../images/pictures/livres_etrangers/products/11.b.jpg'), 
+                        productsImg: [ require('../images/pictures/livres_etrangers/products/11.b.jpg'), 
                                      require('../images/pictures/livres_etrangers/products/11.a.jpg'),
                                      require('../images/pictures/livres_etrangers/products/11.C.jpg'), 
                                      require('../images/pictures/livres_etrangers/products/11.D.jpg'),],
@@ -564,7 +564,7 @@
                             ],
                             provenance: "ARABE"
                         },
-                        productImg: [ require('../images/pictures/religions/products/1.a.jpg'), 
+                        productsImg: [ require('../images/pictures/religions/products/1.a.jpg'), 
                                      require('../images/pictures/religions/products/1.b.jpg'), 
                                      require('../images/pictures/religions/products/1.c.jpg'),],
                         views: '16518',
@@ -581,7 +581,7 @@
                             ],
                             provenance: "ARABE"
                         },
-                        productImg: [ require('../images/pictures/religions/products/2.a.jpg'),
+                        productsImg: [ require('../images/pictures/religions/products/2.a.jpg'),
                                      require('../images/pictures/religions/products/2.b.jpg'),],
                         views: '1250',
                         wishList: '630',
@@ -597,7 +597,7 @@
                             ],
                             provenance: "ABABE SAOUDITE"
                         },
-                        productImg: [ require('../images/pictures/religions/products/3.a.jpg')],
+                        productsImg: [ require('../images/pictures/religions/products/3.a.jpg')],
                         views: '802',
                         wishList: '623',
 
@@ -612,7 +612,7 @@
                             ],
                             provenance: "MAROC"
                         },
-                        productImg: [ require('../images/pictures/religions/products/4.a.jpg'), 
+                        productsImg: [ require('../images/pictures/religions/products/4.a.jpg'), 
                                      require('../images/pictures/religions/products/4.b.jpg'), ],
                         views: '2236',
                         wishList: '1522',
@@ -628,7 +628,7 @@
                             ],
                             provenance: " "
                         },
-                        productImg: [ require('../images/pictures/religions/products/5.a.jpg'),
+                        productsImg: [ require('../images/pictures/religions/products/5.a.jpg'),
                                      require('../images/pictures/religions/products/5.b.jpg') ],
                         views: '2586',
                         wishList: '2334',
@@ -644,7 +644,7 @@
                             ],
                             provenance: "ARABIE SAOUDITE"
                         },
-                        productImg: [ require('../images/pictures/religions/products/6.a.jpg'),
+                        productsImg: [ require('../images/pictures/religions/products/6.a.jpg'),
                                      require('../images/pictures/religions/products/6.b.jpg')],
                         views: '3801',
                         wishList: '101',
@@ -660,7 +660,7 @@
                             ],
                             provenance: "ARABE SAOUDI"
                         },
-                        productImg: [ require('../images/pictures/religions/products/7.a.jpg'), 
+                        productsImg: [ require('../images/pictures/religions/products/7.a.jpg'), 
                                      require('../images/pictures/religions/products/7.b.jpg'),],
                         views: '1850',
                         wishList: '630',
@@ -676,7 +676,7 @@
                             ],
                             provenance: ""
                         },
-                        productImg: [ require('../images/pictures/religions/products/8.a.jpg'),
+                        productsImg: [ require('../images/pictures/religions/products/8.a.jpg'),
                                      require('../images/pictures/religions/products/8.b.jpg')],
                         views: '1804',
                         wishList: '730',
@@ -692,7 +692,7 @@
                             ],
                             provenance: "ABABIE SAOUDIE"
                         },
-                        productImg: [ require('../images/pictures/religions/products/9.a.jpg'), 
+                        productsImg: [ require('../images/pictures/religions/products/9.a.jpg'), 
                                      require('../images/pictures/religions/products/9.b.jpg'),],
                         views: '3580',
                         wishList: '3144',
@@ -708,7 +708,7 @@
                             ],
                             provenance: ""
                         },
-                        productImg: [ require('../images/pictures/religions/products/10.a.jpg'),
+                        productsImg: [ require('../images/pictures/religions/products/10.a.jpg'),
                                         require('../images/pictures/religions/products/10.b.jpg'), 
                                         require('../images/pictures/religions/products/10.C.jpg'),
                                      ],
@@ -726,7 +726,7 @@
                             ],
                             provenance: "ARABIE SAOUDIE"
                         },
-                        productImg: [ require('../images/pictures/religions/products/11.b.jpg'), 
+                        productsImg: [ require('../images/pictures/religions/products/11.b.jpg'), 
                                      require('../images/pictures/religions/products/11.a.jpg'),
                                      require('../images/pictures/religions/products/11.C.jpg'),],
                         views: '3580',
@@ -743,7 +743,7 @@
                             ],
                             provenance: "ARABIE SAOUDIE"
                         },
-                        productImg: [ require('../images/pictures/religions/products/11.b.jpg'), 
+                        productsImg: [ require('../images/pictures/religions/products/11.b.jpg'), 
                                      require('../images/pictures/religions/products/11.a.jpg')],
                         views: '3580',
                         wishList: '3124',
@@ -792,13 +792,13 @@
                     {
                         key: 'kdjde878432jdhjd994384',
                         imgUrl:require('../images/pictures/pantalon/products/1.a.png'),
-                        name: "pantalon tissi",
+                        name: "pantalon tissu",
                         description: {
                             features: [
                                 {info: "pantalon gris"},
                             ],
                         },
-                        productImg: [ require('../images/pictures/pantalon/products/1.a.png'), 
+                        productsImg: [ require('../images/pictures/pantalon/products/1.a.png'), 
                                      require('../images/pictures/pantalon/products/1.b.png'), 
                                      require('../images/pictures/pantalon/products/1.c.png'),
                                      require('../images/pictures/pantalon/products/1.d.png'), 
@@ -816,7 +816,7 @@
                                 {info: "pantalon noir original toute mesure disponible"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/pantalon/products/2.a.png')],
+                        productsImg: [ require('../images/pictures/pantalon/products/2.a.png')],
                         views: '10000',
                         wishList: '6000',
 
@@ -830,7 +830,7 @@
                                 {info: "pantalon vert foncé 4 poches joli"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/pantalon/products/3.a.png'), 
+                        productsImg: [ require('../images/pictures/pantalon/products/3.a.png'), 
                                      require('../images/pictures/pantalon/products/3.b.png')],
                         views: '100',
                         wishList: '60',
@@ -845,7 +845,7 @@
                                 {autor: "pantalon jeans gris multi poche"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/pantalon/products/4.a.png'), 
+                        productsImg: [ require('../images/pictures/pantalon/products/4.a.png'), 
                                      require('../images/pictures/pantalon/products/4.b.png'), 
                                      require('../images/pictures/pantalon/products/4.c.png'),],                                                                            
                         views: '200',
@@ -861,7 +861,7 @@
                                 {info: "pantalon battle garçon double jersey"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/pantalon/products/5.a.png'), 
+                        productsImg: [ require('../images/pictures/pantalon/products/5.a.png'), 
                                      require('../images/pictures/pantalon/products/5.b.png'),
                                      require('../images/pictures/pantalon/products/5.c.png')],
                         views: '2586',
@@ -877,7 +877,7 @@
                                 {info: "jean stretch garçon brodé"},
                             ],
                         },
-                        productImg: [ require('../images/pictures/pantalon/products/6.a.png'), 
+                        productsImg: [ require('../images/pictures/pantalon/products/6.a.png'), 
                                      require('../images/pictures/pantalon/products/6.b.png'),
                                      require('../images/pictures/pantalon/products/6.c.png'), 
                                      require('../images/pictures/pantalon/products/6.d.png'),],
@@ -894,7 +894,7 @@
                                 {info: "pantalon jogger garcon en dnim"}
                             ]
                         },
-                        productImg: [ require('../images/pictures/pantalon/products/7.a.png'), 
+                        productsImg: [ require('../images/pictures/pantalon/products/7.a.png'), 
                                      require('../images/pictures/pantalon/products/7.b.png'),
                                      require('../images/pictures/pantalon/products/7.c.png'), 
                                      require('../images/pictures/pantalon/products/7.d.png')],
@@ -911,7 +911,7 @@
                                 {info: "pantalon jean slim garçon stretch"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/pantalon/products/8.a.png'), 
+                        productsImg: [ require('../images/pictures/pantalon/products/8.a.png'), 
                                      require('../images/pictures/pantalon/products/8.b.png'),
                                      require('../images/pictures/pantalon/products/8.c.png')],
                         views: '1804',
@@ -927,7 +927,7 @@
                                 {info: "pantalon jean slim garçon ultra stretch"}]
                         },
 
-                        productImg: [ require('../images/pictures/pantalon/products/9.a.png'), 
+                        productsImg: [ require('../images/pictures/pantalon/products/9.a.png'), 
                                      require('../images/pictures/pantalon/products/9.b.png'),
                                      require('../images/pictures/pantalon/products/9.c.png'), 
                                      require('../images/pictures/pantalon/products/9.d.png'),
@@ -946,7 +946,7 @@
                                 {info: "pantalon jean garçon en denim respirant"}
                             ]
                         },
-                        productImg: [ require('../images/pictures/pantalon/products/10.a.png'), 
+                        productsImg: [ require('../images/pictures/pantalon/products/10.a.png'), 
                                      require('../images/pictures/pantalon/products/10.b.png'), 
                                      require('../images/pictures/pantalon/products/10.c.png')],
                         views: '1804',
@@ -962,7 +962,7 @@
                                 {info: "pantalon jean slim garçon tour de hanches fin morphologik"}
                             ]
                         },
-                        productImg: [ require('../images/pictures/pantalon/products/11.a.png'), 
+                        productsImg: [ require('../images/pictures/pantalon/products/11.a.png'), 
                                      require('../images/pictures/pantalon/products/11.b.png'),   
                                      require('../images/pictures/pantalon/products/11.c.png'),],
                         views: '3580',
@@ -987,7 +987,7 @@
                                 {info: "Montre-bracelet Archies Gents (AW-A15-04) noir analogique"},
                             ],
                         },
-                        productImg: [ require('../images/pictures/accessoires/products/1.a.png'), 
+                        productsImg: [ require('../images/pictures/accessoires/products/1.a.png'), 
                                      require('../images/pictures/accessoires/products/1.b.png')],
                         views: '1050',
                         wishList: '660',
@@ -1002,7 +1002,7 @@
                                 {info: "Archies Gents Montre Au Poignet AW-A15-105 analogique carré blanc"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/accessoires/products/2.a.png')],
+                        productsImg: [ require('../images/pictures/accessoires/products/2.a.png')],
                         views: '10000',
                         wishList: '6000',
 
@@ -1016,7 +1016,7 @@
                                 {info: "Chaussettes Dynamocks Shaolin Chaussure Unisexe Longueur , chaussure shaolin, vert,  "}
                             ],
                         },
-                        productImg: [ require('../images/pictures/accessoires/products/3.a.png'), 
+                        productsImg: [ require('../images/pictures/accessoires/products/3.a.png'), 
                                      require('../images/pictures/accessoires/products/3.b.png'),
                                      require('../images/pictures/accessoires/products/3.c.png')],      
                         views: '100',
@@ -1032,7 +1032,7 @@
                                 {info: "Chaussettes Mi-Coussins Levis Mens Pour Hommes,  26545-0003,82% coton, 16% nylon, 2% élasthanne,bleu,"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/accessoires/products/4.a.png'), 
+                        productsImg: [ require('../images/pictures/accessoires/products/4.a.png'), 
                                      require('../images/pictures/accessoires/products/4.b.png'), 
                                      require('../images/pictures/accessoires/products/4.c.png'),],
                         views: '200',
@@ -1048,7 +1048,7 @@
                                 {info: "Portefeuille en cuir Peter England noir pour hommes (R31892038)"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/accessoires/products/5.a.png'), 
+                        productsImg: [ require('../images/pictures/accessoires/products/5.a.png'), 
                                      require('../images/pictures/accessoires/products/5.b.png'),
                                      require('../images/pictures/accessoires/products/5.c.png'),
                                      require('../images/pictures/accessoires/products/5.d.png')],
@@ -1065,7 +1065,7 @@
                                 {info: "Portefeuille en cuir pour hommes Peter England Brown (R51892023)"},
                             ],
                         },
-                        productImg: [ require('../images/pictures/accessoires/products/6.a.png'), 
+                        productsImg: [ require('../images/pictures/accessoires/products/6.a.png'), 
                                      require('../images/pictures/accessoires/products/6.b.png'),
                                      require('../images/pictures/accessoires/products/6.c.png'), 
                                      require('../images/pictures/accessoires/products/6.d.png'),],
@@ -1082,7 +1082,7 @@
                                 {info: "NoLogo Red Tie (Ensemble de 3 pièces) (EST-TE15)"}
                             ]
                         },
-                        productImg: [ require('../images/pictures/accessoires/products/7.a.png'), 
+                        productsImg: [ require('../images/pictures/accessoires/products/7.a.png'), 
                                      require('../images/pictures/accessoires/products/7.b.png'),
                                      require('../images/pictures/accessoires/products/7.c.png'), 
                                      require('../images/pictures/accessoires/products/7.d.png')],
@@ -1099,7 +1099,7 @@
                                 {info: "casquette noir Cap (W2878593A485)"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/accessoires/products/8.a.png'), 
+                        productsImg: [ require('../images/pictures/accessoires/products/8.a.png'), 
                                      require('../images/pictures/accessoires/products/8.b.png'),
                                      require('../images/pictures/accessoires/products/8.c.png')],
                         views: '1804',
@@ -1115,7 +1115,7 @@
                                 {info: "Ceinture pour hommes Peter England Tan (R51791453)"}]
                         },
 
-                        productImg: [ require('../images/pictures/accessoires/products/9.a.png'), 
+                        productsImg: [ require('../images/pictures/accessoires/products/9.a.png'), 
                                      require('../images/pictures/accessoires/products/9.b.png'),
                                      require('../images/pictures/accessoires/products/9.c.png'),],
                                      
@@ -1132,7 +1132,7 @@
                                 {info: "Lunettes de soleil aviateur jaunes Oxyzone (SG7707)"}
                             ]
                         },
-                        productImg: [ require('../images/pictures/accessoires/products/10.a.png'), 
+                        productsImg: [ require('../images/pictures/accessoires/products/10.a.png'), 
                                      require('../images/pictures/accessoires/products/10.b.png'), 
                                      require('../images/pictures/accessoires/products/10.c.png')],
                         views: '1804',
@@ -1148,7 +1148,7 @@
                                 {info: "Noeud papillon bleu marine Peter England avec pochette (RNBP31793402)"}
                             ]
                         },
-                        productImg: [ require('../images/pictures/accessoires/products/11.a.png'), 
+                        productsImg: [ require('../images/pictures/accessoires/products/11.a.png'), 
                                      require('../images/pictures/accessoires/products/11.b.png'),   
                                      require('../images/pictures/accessoires/products/11.c.png'),],
                         views: '3580',
@@ -1173,7 +1173,7 @@
                                 {info: "Chemise décontractée imprimée camo verte, sans logo"},
                             ],
                         },
-                        productImg: [ require('../images/pictures/chemises/products/1.a.png'), 
+                        productsImg: [ require('../images/pictures/chemises/products/1.a.png'), 
                                      require('../images/pictures/chemises/products/1.b.png'),
                                      require('../images/pictures/chemises/products/1.c.png'), 
                                      require('../images/pictures/chemises/products/1.d.png')],
@@ -1190,7 +1190,7 @@
                                 {info: "no logo navy casual shirt "}
                             ],
                         },
-                        productImg: [ require('../images/pictures/chemises/products/2.a.png'),
+                        productsImg: [ require('../images/pictures/chemises/products/2.a.png'),
                                      require('../images/pictures/chemises/products/2.b.png'),
                                      require('../images/pictures/chemises/products/2.c.png')],
                         views: '10000',
@@ -1206,7 +1206,7 @@
                                 {info: "Chemise en jean délavé bleu clair sans logo"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/chemises/products/3.a.png'), 
+                        productsImg: [ require('../images/pictures/chemises/products/3.a.png'), 
                                      require('../images/pictures/chemises/products/3.b.png'),
                                      require('../images/pictures/chemises/products/3.c.png')],      
                         views: '100',
@@ -1222,7 +1222,7 @@
                                 {info: "Chemise en jean délavé bleu clair sans logo"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/chemises/products/4.a.png'), 
+                        productsImg: [ require('../images/pictures/chemises/products/4.a.png'), 
                                      require('../images/pictures/chemises/products/4.b.png'), 
                                      require('../images/pictures/chemises/products/4.c.png'),],
                         views: '200',
@@ -1238,7 +1238,7 @@
                                 {info: "chemise décontractée sans logo imprimée camo vert"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/chemises/products/5.a.png'), 
+                        productsImg: [ require('../images/pictures/chemises/products/5.a.png'), 
                                      require('../images/pictures/chemises/products/5.b.png'),
                                      require('../images/pictures/chemises/products/5.c.png'),],
                         views: '2586',
@@ -1254,7 +1254,7 @@
                                 {info: "chemise décontractée blanc rouge sans logo"},
                             ],
                         },
-                        productImg: [ require('../images/pictures/chemises/products/6.a.png'), 
+                        productsImg: [ require('../images/pictures/chemises/products/6.a.png'), 
                                      require('../images/pictures/chemises/products/6.b.png'),
                                      require('../images/pictures/chemises/products/6.c.png')],
                         views: '381',
@@ -1270,7 +1270,7 @@
                                 {info: "Chemise décontractée à carreaux vert sage sans logo bleu"}
                             ]
                         },
-                        productImg: [ require('../images/pictures/chemises/products/7.a.png'), 
+                        productsImg: [ require('../images/pictures/chemises/products/7.a.png'), 
                                      require('../images/pictures/chemises/products/7.b.png'),
                                      require('../images/pictures/chemises/products/7.c.png'),],
                         views: '1800',
@@ -1286,7 +1286,7 @@
                                 {info: "chemise décontractée bleu ciel sans logo"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/chemises/products/8.a.png'), 
+                        productsImg: [ require('../images/pictures/chemises/products/8.a.png'), 
                                      require('../images/pictures/chemises/products/8.b.png'),
                                      require('../images/pictures/chemises/products/8.c.png')],
                         views: '1804',
@@ -1302,7 +1302,7 @@
                                 {info: "Chemise à carreaux décontractée blanche nologo"}]
                         },
 
-                        productImg: [ require('../images/pictures/chemises/products/9.a.png'), 
+                        productsImg: [ require('../images/pictures/chemises/products/9.a.png'), 
                                      require('../images/pictures/chemises/products/9.b.png'),
                                      require('../images/pictures/chemises/products/9.c.png'),],
                                      
@@ -1319,7 +1319,7 @@
                                 {info: "Chemise décontractée à carreaux noire et jaune"}
                             ]
                         },
-                        productImg: [ require('../images/pictures/chemises/products/10.a.png'), 
+                        productsImg: [ require('../images/pictures/chemises/products/10.a.png'), 
                                      require('../images/pictures/chemises/products/10.b.png'), 
                                      require('../images/pictures/chemises/products/10.c.png')],
                         views: '1804',
@@ -1344,7 +1344,7 @@
                                 {info: "Costume en lin vert leger et respirant, homme"},
                             ],
                         },
-                        productImg: [ require('../images/pictures/costumes/products/1.a.png'), 
+                        productsImg: [ require('../images/pictures/costumes/products/1.a.png'), 
                                      require('../images/pictures/costumes/products/1.b.png'),
                                      require('../images/pictures/costumes/products/1.c.png')],
                         views: '1050',
@@ -1360,7 +1360,7 @@
                                 {info: "blazar en laine vierge, MARQUE: BOGLIOLI "}
                             ],
                         },
-                        productImg: [ require('../images/pictures/costumes/products/2.a.png'),
+                        productsImg: [ require('../images/pictures/costumes/products/2.a.png'),
                                      require('../images/pictures/costumes/products/2.b.png'),
                                      require('../images/pictures/costumes/products/2.c.png')],
                         views: '10000',
@@ -1376,7 +1376,7 @@
                                 {info: "costume en lin , marque: atelier bg"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/costumes/products/3.a.png'), 
+                        productsImg: [ require('../images/pictures/costumes/products/3.a.png'), 
                                      require('../images/pictures/costumes/products/3.b.png'),
                                      require('../images/pictures/costumes/products/3.c.png')],      
                         views: '100',
@@ -1392,7 +1392,7 @@
                                 {info: "costume en laine, soie et lin marque: caruso"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/costumes/products/4.a.png'), 
+                        productsImg: [ require('../images/pictures/costumes/products/4.a.png'), 
                                      require('../images/pictures/costumes/products/4.b.png'), 
                                      require('../images/pictures/costumes/products/4.c.png'),],
                         views: '200',
@@ -1408,7 +1408,7 @@
                                 {info: "blazar en laine vierge, MARQUE: BOGLIOLI "}
                             ],
                         },
-                        productImg: [ require('../images/pictures/costumes/products/5.a.png'), 
+                        productsImg: [ require('../images/pictures/costumes/products/5.a.png'), 
                                      require('../images/pictures/costumes/products/5.b.png'),
                                      require('../images/pictures/costumes/products/5.c.png'),],
                         views: '2586',
@@ -1424,7 +1424,7 @@
                                 {info: "blazar en laine vierge, MARQUE: BOGLIOLI "},
                             ],
                         },
-                        productImg: [ require('../images/pictures/costumes/products/6.a.png'), 
+                        productsImg: [ require('../images/pictures/costumes/products/6.a.png'), 
                                      require('../images/pictures/costumes/products/6.b.png'),
                                      require('../images/pictures/costumes/products/6.c.png')],
                         views: '381',
@@ -1440,7 +1440,7 @@
                                 {info: "blazar en laine vierge, MARQUE: BOGLIOLI , gris, confortable"}
                             ]
                         },
-                        productImg: [ require('../images/pictures/costumes/products/7.a.png'), 
+                        productsImg: [ require('../images/pictures/costumes/products/7.a.png'), 
                                      require('../images/pictures/costumes/products/7.b.png'),
                                      require('../images/pictures/costumes/products/7.c.png'),],
                         views: '1800',
@@ -1456,7 +1456,7 @@
                                 {info: "blazar en laine vierge, MARQUE: BOGLIOLI  .soie , et lin"}
                             ],
                         },
-                        productImg: [ require('../images/pictures/costumes/products/8.a.png'), 
+                        productsImg: [ require('../images/pictures/costumes/products/8.a.png'), 
                                      require('../images/pictures/costumes/products/8.b.png'),
                                      require('../images/pictures/costumes/products/8.c.png')],
                         views: '1804',
@@ -1472,7 +1472,7 @@
                                 {info: "blazar en laine aquaspider, MARQUE: BOGLIOLI, "}]
                         },
 
-                        productImg: [ require('../images/pictures/costumes/products/9.a.png'), 
+                        productsImg: [ require('../images/pictures/costumes/products/9.a.png'), 
                                      require('../images/pictures/costumes/products/9.b.png'),
                                      require('../images/pictures/costumes/products/9.c.png'),],
                                      
@@ -1489,7 +1489,7 @@
                                 {info: "blazar en laine vierge, MARQUE: BOGLIOLI  bleu"}
                             ]
                         },
-                        productImg: [ require('../images/pictures/costumes/products/10.a.png'), 
+                        productsImg: [ require('../images/pictures/costumes/products/10.a.png'), 
                                      require('../images/pictures/costumes/products/10.b.png'), 
                                      require('../images/pictures/costumes/products/10.c.png')],
                         views: '1804',

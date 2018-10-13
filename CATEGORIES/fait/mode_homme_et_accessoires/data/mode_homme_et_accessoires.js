@@ -11,13 +11,13 @@
                 products: [{
                         key: 'kdjde878432jdhjd994384',
                         imgUrl: require('../images/pictures/pantalon/products/1.a.png'),
-                        name: "pantalon tissi",
+                        name: "pantalon tissu",
                         description: {
                             features: [{
                                 info: "pantalon gris"
                             }, ],
                         },
-                        productImg: [require('../images/pictures/pantalon/products/1.a.png'),
+                        productsImg: [require('../images/pictures/pantalon/products/1.a.png'),
                             require('../images/pictures/pantalon/products/1.b.png'),
                             require('../images/pictures/pantalon/products/1.c.png'),
                             require('../images/pictures/pantalon/products/1.d.png'),
@@ -36,7 +36,7 @@
                                 info: "pantalon noir original toute mesure disponible"
                             }],
                         },
-                        productImg: [require('../images/pictures/pantalon/products/2.a.png')],
+                        productsImg: [require('../images/pictures/pantalon/products/2.a.png')],
                         views: '10000',
                         wishList: '6000',
 
@@ -50,7 +50,7 @@
                                 info: "pantalon vert foncé 4 poches joli"
                             }],
                         },
-                        productImg: [require('../images/pictures/pantalon/products/3.a.png'),
+                        productsImg: [require('../images/pictures/pantalon/products/3.a.png'),
                             require('../images/pictures/pantalon/products/3.b.png')
                         ],
                         views: '100',
@@ -66,7 +66,7 @@
                                 autor: "pantalon jeans gris multi poche"
                             }],
                         },
-                        productImg: [require('../images/pictures/pantalon/products/4.a.png'),
+                        productsImg: [require('../images/pictures/pantalon/products/4.a.png'),
                             require('../images/pictures/pantalon/products/4.b.png'),
                             require('../images/pictures/pantalon/products/4.c.png'),
                         ],
@@ -83,7 +83,7 @@
                                 info: "pantalon battle garçon double jersey"
                             }],
                         },
-                        productImg: [require('../images/pictures/pantalon/products/5.a.png'),
+                        productsImg: [require('../images/pictures/pantalon/products/5.a.png'),
                             require('../images/pictures/pantalon/products/5.b.png'),
                             require('../images/pictures/pantalon/products/5.c.png')
                         ],
@@ -100,7 +100,7 @@
                                 info: "jean stretch garçon brodé"
                             }, ],
                         },
-                        productImg: [require('../images/pictures/pantalon/products/6.a.png'),
+                        productsImg: [require('../images/pictures/pantalon/products/6.a.png'),
                             require('../images/pictures/pantalon/products/6.b.png'),
                             require('../images/pictures/pantalon/products/6.c.png'),
                             require('../images/pictures/pantalon/products/6.d.png'),
@@ -118,7 +118,7 @@
                                 info: "pantalon jogger garcon en dnim"
                             }]
                         },
-                        productImg: [require('../images/pictures/pantalon/products/7.a.png'),
+                        productsImg: [require('../images/pictures/pantalon/products/7.a.png'),
                             require('../images/pictures/pantalon/products/7.b.png'),
                             require('../images/pictures/pantalon/products/7.c.png'),
                             require('../images/pictures/pantalon/products/7.d.png')
@@ -136,7 +136,7 @@
                                 info: "pantalon jean slim garçon stretch"
                             }],
                         },
-                        productImg: [require('../images/pictures/pantalon/products/8.a.png'),
+                        productsImg: [require('../images/pictures/pantalon/products/8.a.png'),
                             require('../images/pictures/pantalon/products/8.b.png'),
                             require('../images/pictures/pantalon/products/8.c.png')
                         ],
@@ -154,7 +154,7 @@
                             }]
                         },
 
-                        productImg: [require('../images/pictures/pantalon/products/9.a.png'),
+                        productsImg: [require('../images/pictures/pantalon/products/9.a.png'),
                             require('../images/pictures/pantalon/products/9.b.png'),
                             require('../images/pictures/pantalon/products/9.c.png'),
                             require('../images/pictures/pantalon/products/9.d.png'),
@@ -174,7 +174,7 @@
                                 info: "pantalon jean garçon en denim respirant"
                             }]
                         },
-                        productImg: [require('../images/pictures/pantalon/products/10.a.png'),
+                        productsImg: [require('../images/pictures/pantalon/products/10.a.png'),
                             require('../images/pictures/pantalon/products/10.b.png'),
                             require('../images/pictures/pantalon/products/10.c.png')
                         ],
@@ -191,7 +191,7 @@
                                 info: "pantalon jean slim garçon tour de hanches fin morphologik"
                             }]
                         },
-                        productImg: [require('../images/pictures/pantalon/products/11.a.png'),
+                        productsImg: [require('../images/pictures/pantalon/products/11.a.png'),
                             require('../images/pictures/pantalon/products/11.b.png'),
                             require('../images/pictures/pantalon/products/11.c.png'),
                         ],
@@ -215,7 +215,7 @@
                                 info: "Montre-bracelet Archies Gents (AW-A15-04) noir analogique"
                             }, ],
                         },
-                        productImg: [require('../images/pictures/accessoires/products/1.a.png'),
+                        productsImg: [require('../images/pictures/accessoires/products/1.a.png'),
                             require('../images/pictures/accessoires/products/1.b.png')
                         ],
                         views: '1050',
@@ -231,7 +231,7 @@
                                 info: "Archies Gents Montre Au Poignet AW-A15-105 analogique carré blanc"
                             }],
                         },
-                        productImg: [require('../images/pictures/accessoires/products/2.a.png')],
+                        productsImg: [require('../images/pictures/accessoires/products/2.a.png')],
                         views: '10000',
                         wishList: '6000',
 
@@ -245,7 +245,7 @@
                                 info: "Chaussettes Dynamocks Shaolin Chaussure Unisexe Longueur , chaussure shaolin, vert,  "
                             }],
                         },
-                        productImg: [require('../images/pictures/accessoires/products/3.a.png'),
+                        productsImg: [require('../images/pictures/accessoires/products/3.a.png'),
                             require('../images/pictures/accessoires/products/3.b.png'),
                             require('../images/pictures/accessoires/products/3.c.png')
                         ],
@@ -262,7 +262,7 @@
                                 info: "Chaussettes Mi-Coussins Levis Mens Pour Hommes,  26545-0003,82% coton, 16% nylon, 2% élasthanne,bleu,"
                             }],
                         },
-                        productImg: [require('../images/pictures/accessoires/products/4.a.png'),
+                        productsImg: [require('../images/pictures/accessoires/products/4.a.png'),
                             require('../images/pictures/accessoires/products/4.b.png'),
                             require('../images/pictures/accessoires/products/4.c.png'),
                         ],
@@ -279,7 +279,7 @@
                                 info: "Portefeuille en cuir Peter England noir pour hommes (R31892038)"
                             }],
                         },
-                        productImg: [require('../images/pictures/accessoires/products/5.a.png'),
+                        productsImg: [require('../images/pictures/accessoires/products/5.a.png'),
                             require('../images/pictures/accessoires/products/5.b.png'),
                             require('../images/pictures/accessoires/products/5.c.png'),
                             require('../images/pictures/accessoires/products/5.d.png')
@@ -297,7 +297,7 @@
                                 info: "Portefeuille en cuir pour hommes Peter England Brown (R51892023)"
                             }, ],
                         },
-                        productImg: [require('../images/pictures/accessoires/products/6.a.png'),
+                        productsImg: [require('../images/pictures/accessoires/products/6.a.png'),
                             require('../images/pictures/accessoires/products/6.b.png'),
                             require('../images/pictures/accessoires/products/6.c.png'),
                             require('../images/pictures/accessoires/products/6.d.png'),
@@ -315,7 +315,7 @@
                                 info: "NoLogo Red Tie (Ensemble de 3 pièces) (EST-TE15)"
                             }]
                         },
-                        productImg: [require('../images/pictures/accessoires/products/7.a.png'),
+                        productsImg: [require('../images/pictures/accessoires/products/7.a.png'),
                             require('../images/pictures/accessoires/products/7.b.png'),
                             require('../images/pictures/accessoires/products/7.c.png'),
                             require('../images/pictures/accessoires/products/7.d.png')
@@ -333,7 +333,7 @@
                                 info: "casquette noir Cap (W2878593A485)"
                             }],
                         },
-                        productImg: [require('../images/pictures/accessoires/products/8.a.png'),
+                        productsImg: [require('../images/pictures/accessoires/products/8.a.png'),
                             require('../images/pictures/accessoires/products/8.b.png'),
                             require('../images/pictures/accessoires/products/8.c.png')
                         ],
@@ -351,7 +351,7 @@
                             }]
                         },
 
-                        productImg: [require('../images/pictures/accessoires/products/9.a.png'),
+                        productsImg: [require('../images/pictures/accessoires/products/9.a.png'),
                             require('../images/pictures/accessoires/products/9.b.png'),
                             require('../images/pictures/accessoires/products/9.c.png'),
                         ],
@@ -369,7 +369,7 @@
                                 info: "Lunettes de soleil aviateur jaunes Oxyzone (SG7707)"
                             }]
                         },
-                        productImg: [require('../images/pictures/accessoires/products/10.a.png'),
+                        productsImg: [require('../images/pictures/accessoires/products/10.a.png'),
                             require('../images/pictures/accessoires/products/10.b.png'),
                             require('../images/pictures/accessoires/products/10.c.png')
                         ],
@@ -386,7 +386,7 @@
                                 info: "Noeud papillon bleu marine Peter England avec pochette (RNBP31793402)"
                             }]
                         },
-                        productImg: [require('../images/pictures/accessoires/products/11.a.png'),
+                        productsImg: [require('../images/pictures/accessoires/products/11.a.png'),
                             require('../images/pictures/accessoires/products/11.b.png'),
                             require('../images/pictures/accessoires/products/11.c.png'),
                         ],
@@ -410,7 +410,7 @@
                                 info: "Chemise décontractée imprimée camo verte, sans logo"
                             }, ],
                         },
-                        productImg: [require('../images/pictures/chemises/products/1.a.png'),
+                        productsImg: [require('../images/pictures/chemises/products/1.a.png'),
                             require('../images/pictures/chemises/products/1.b.png'),
                             require('../images/pictures/chemises/products/1.c.png'),
                             require('../images/pictures/chemises/products/1.d.png')
@@ -428,7 +428,7 @@
                                 info: "no logo navy casual shirt "
                             }],
                         },
-                        productImg: [require('../images/pictures/chemises/products/2.a.png'),
+                        productsImg: [require('../images/pictures/chemises/products/2.a.png'),
                             require('../images/pictures/chemises/products/2.b.png'),
                             require('../images/pictures/chemises/products/2.c.png')
                         ],
@@ -445,7 +445,7 @@
                                 info: "Chemise en jean délavé bleu clair sans logo"
                             }],
                         },
-                        productImg: [require('../images/pictures/chemises/products/3.a.png'),
+                        productsImg: [require('../images/pictures/chemises/products/3.a.png'),
                             require('../images/pictures/chemises/products/3.b.png'),
                             require('../images/pictures/chemises/products/3.c.png')
                         ],
@@ -462,7 +462,7 @@
                                 info: "Chemise en jean délavé bleu clair sans logo"
                             }],
                         },
-                        productImg: [require('../images/pictures/chemises/products/4.a.png'),
+                        productsImg: [require('../images/pictures/chemises/products/4.a.png'),
                             require('../images/pictures/chemises/products/4.b.png'),
                             require('../images/pictures/chemises/products/4.c.png'),
                         ],
@@ -479,7 +479,7 @@
                                 info: "chemise décontractée sans logo imprimée camo vert"
                             }],
                         },
-                        productImg: [require('../images/pictures/chemises/products/5.a.png'),
+                        productsImg: [require('../images/pictures/chemises/products/5.a.png'),
                             require('../images/pictures/chemises/products/5.b.png'),
                             require('../images/pictures/chemises/products/5.c.png'),
                         ],
@@ -496,7 +496,7 @@
                                 info: "chemise décontractée blanc rouge sans logo"
                             }, ],
                         },
-                        productImg: [require('../images/pictures/chemises/products/6.a.png'),
+                        productsImg: [require('../images/pictures/chemises/products/6.a.png'),
                             require('../images/pictures/chemises/products/6.b.png'),
                             require('../images/pictures/chemises/products/6.c.png')
                         ],
@@ -513,7 +513,7 @@
                                 info: "Chemise décontractée à carreaux vert sage sans logo bleu"
                             }]
                         },
-                        productImg: [require('../images/pictures/chemises/products/7.a.png'),
+                        productsImg: [require('../images/pictures/chemises/products/7.a.png'),
                             require('../images/pictures/chemises/products/7.b.png'),
                             require('../images/pictures/chemises/products/7.c.png'),
                         ],
@@ -530,7 +530,7 @@
                                 info: "chemise décontractée bleu ciel sans logo"
                             }],
                         },
-                        productImg: [require('../images/pictures/chemises/products/8.a.png'),
+                        productsImg: [require('../images/pictures/chemises/products/8.a.png'),
                             require('../images/pictures/chemises/products/8.b.png'),
                             require('../images/pictures/chemises/products/8.c.png')
                         ],
@@ -548,7 +548,7 @@
                             }]
                         },
 
-                        productImg: [require('../images/pictures/chemises/products/9.a.png'),
+                        productsImg: [require('../images/pictures/chemises/products/9.a.png'),
                             require('../images/pictures/chemises/products/9.b.png'),
                             require('../images/pictures/chemises/products/9.c.png'),
                         ],
@@ -566,7 +566,7 @@
                                 info: "Chemise décontractée à carreaux noire et jaune"
                             }]
                         },
-                        productImg: [require('../images/pictures/chemises/products/10.a.png'),
+                        productsImg: [require('../images/pictures/chemises/products/10.a.png'),
                             require('../images/pictures/chemises/products/10.b.png'),
                             require('../images/pictures/chemises/products/10.c.png')
                         ],
@@ -590,7 +590,7 @@
                                 info: "Costume en lin vert leger et respirant, homme"
                             }, ],
                         },
-                        productImg: [require('../images/pictures/costumes/products/1.a.png'),
+                        productsImg: [require('../images/pictures/costumes/products/1.a.png'),
                             require('../images/pictures/costumes/products/1.b.png'),
                             require('../images/pictures/costumes/products/1.c.png')
                         ],
@@ -607,7 +607,7 @@
                                 info: "blazar en laine vierge, MARQUE: BOGLIOLI "
                             }],
                         },
-                        productImg: [require('../images/pictures/costumes/products/2.a.png'),
+                        productsImg: [require('../images/pictures/costumes/products/2.a.png'),
                             require('../images/pictures/costumes/products/2.b.png'),
                             require('../images/pictures/costumes/products/2.c.png')
                         ],
@@ -624,7 +624,7 @@
                                 info: "costume en lin , marque: atelier bg"
                             }],
                         },
-                        productImg: [require('../images/pictures/costumes/products/3.a.png'),
+                        productsImg: [require('../images/pictures/costumes/products/3.a.png'),
                             require('../images/pictures/costumes/products/3.b.png'),
                             require('../images/pictures/costumes/products/3.c.png')
                         ],
@@ -641,7 +641,7 @@
                                 info: "costume en laine, soie et lin marque: caruso"
                             }],
                         },
-                        productImg: [require('../images/pictures/costumes/products/4.a.png'),
+                        productsImg: [require('../images/pictures/costumes/products/4.a.png'),
                             require('../images/pictures/costumes/products/4.b.png'),
                             require('../images/pictures/costumes/products/4.c.png'),
                         ],
@@ -658,7 +658,7 @@
                                 info: "blazar en laine vierge, MARQUE: BOGLIOLI "
                             }],
                         },
-                        productImg: [require('../images/pictures/costumes/products/5.a.png'),
+                        productsImg: [require('../images/pictures/costumes/products/5.a.png'),
                             require('../images/pictures/costumes/products/5.b.png'),
                             require('../images/pictures/costumes/products/5.c.png'),
                         ],
@@ -675,7 +675,7 @@
                                 info: "blazar en laine vierge, MARQUE: BOGLIOLI "
                             }, ],
                         },
-                        productImg: [require('../images/pictures/costumes/products/6.a.png'),
+                        productsImg: [require('../images/pictures/costumes/products/6.a.png'),
                             require('../images/pictures/costumes/products/6.b.png'),
                             require('../images/pictures/costumes/products/6.c.png')
                         ],
@@ -692,7 +692,7 @@
                                 info: "blazar en laine vierge, MARQUE: BOGLIOLI , gris, confortable"
                             }]
                         },
-                        productImg: [require('../images/pictures/costumes/products/7.a.png'),
+                        productsImg: [require('../images/pictures/costumes/products/7.a.png'),
                             require('../images/pictures/costumes/products/7.b.png'),
                             require('../images/pictures/costumes/products/7.c.png'),
                         ],
@@ -709,7 +709,7 @@
                                 info: "blazar en laine vierge, MARQUE: BOGLIOLI  .soie , et lin"
                             }],
                         },
-                        productImg: [require('../images/pictures/costumes/products/8.a.png'),
+                        productsImg: [require('../images/pictures/costumes/products/8.a.png'),
                             require('../images/pictures/costumes/products/8.b.png'),
                             require('../images/pictures/costumes/products/8.c.png')
                         ],
@@ -727,7 +727,7 @@
                             }]
                         },
 
-                        productImg: [require('../images/pictures/costumes/products/9.a.png'),
+                        productsImg: [require('../images/pictures/costumes/products/9.a.png'),
                             require('../images/pictures/costumes/products/9.b.png'),
                             require('../images/pictures/costumes/products/9.c.png'),
                         ],
@@ -745,7 +745,7 @@
                                 info: "blazar en laine vierge, MARQUE: BOGLIOLI  bleu"
                             }]
                         },
-                        productImg: [require('../images/pictures/costumes/products/10.a.png'),
+                        productsImg: [require('../images/pictures/costumes/products/10.a.png'),
                             require('../images/pictures/costumes/products/10.b.png'),
                             require('../images/pictures/costumes/products/10.c.png')
                         ],
