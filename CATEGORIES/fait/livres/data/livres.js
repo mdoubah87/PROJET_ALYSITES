@@ -20,7 +20,7 @@
                             }],
                             provenance: "Afrique Sénégal"
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/1.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/1.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/1.b.jpg'),
                             require('../images/pictures/litterature_africaine/products/1.c.jpg'),
                         ],
@@ -40,7 +40,7 @@
                             }],
                             provenance: "Afrique Sénégal"
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/2.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/2.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/2.b.jpg'),
                             require('../images/pictures/litterature_africaine/products/2.c.jpg'),
                         ],
@@ -60,7 +60,7 @@
                             }],
                             provenance: "Afrique "
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/3.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/3.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/3.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/3.a.jpg'),
                         ],
@@ -80,7 +80,7 @@
                             }],
                             provenance: "Afrique"
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/4.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/4.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/4.b.jpg'),
                             require('../images/pictures/litterature_africaine/products/4.c.jpg'),
                         ],
@@ -100,7 +100,7 @@
                             }],
                             provenance: "Afrique "
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/5.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/5.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/5.b.jpg'),
                         ],
                         views: '2586',
@@ -119,7 +119,7 @@
                             }],
                             provenance: "Afrique"
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/6.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/6.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/6.b.jpg'),
                         ],
                         views: '381',
@@ -138,7 +138,7 @@
                             }],
                             provenance: "Afrique Sénégal"
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/7.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/7.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/7.b.jpg'),
                         ],
                         views: '1800',
@@ -157,7 +157,7 @@
                             }],
                             provenance: "Afrique cameroun"
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/8.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/8.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/8.b.jpg'),
                         ],
                         views: '1804',
@@ -176,7 +176,7 @@
                             }],
                             provenance: "Afrique senegal"
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/9.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/9.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/9.b.jpg'),
                         ],
                         views: '1804',
@@ -195,7 +195,7 @@
                             }],
                             provenance: "Afrique senegal"
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/10.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/10.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/10.b.jpg'),
                         ],
                         views: '1804',
@@ -214,7 +214,7 @@
                             }],
                             provenance: "Afrique guinée"
                         },
-                        productImg: [require('../images/pictures/litterature_africaine/products/11.a.jpg'),
+                        productsImg: [require('../images/pictures/litterature_africaine/products/11.a.jpg'),
                             require('../images/pictures/litterature_africaine/products/11.b.jpg'),
                         ],
                         views: '3580',
@@ -241,7 +241,7 @@
                             }],
                             provenance: "europe france"
                         },
-                        productImg: [require('../images/pictures/bd/products/1.a.jpg'),
+                        productsImg: [require('../images/pictures/bd/products/1.a.jpg'),
                             require('../images/pictures/bd/products/1.b.jpg'),
                             require('../images/pictures/bd/products/1.c.jpg'),
                         ],
@@ -261,7 +261,7 @@
                             }],
                             provenance: "europe france"
                         },
-                        productImg: [require('../images/pictures/bd/products/2.a.jpg'),
+                        productsImg: [require('../images/pictures/bd/products/2.a.jpg'),
                             require('../images/pictures/bd/products/2.b.jpg'),
                             require('../images/pictures/bd/products/2.c.jpg'),
                         ],
@@ -281,7 +281,7 @@
                             }],
                             provenance: "europe france "
                         },
-                        productImg: [require('../images/pictures/bd/products/3.a.jpg'),
+                        productsImg: [require('../images/pictures/bd/products/3.a.jpg'),
                             require('../images/pictures/bd/products/3.b.jpg'),
                         ],
                         views: '800',
@@ -300,7 +300,7 @@
                             }],
                             provenance: "Europe , belgique"
                         },
-                        productImg: [require('../images/pictures/bd/products/4.a.jpg'), ],
+                        productsImg: [require('../images/pictures/bd/products/4.a.jpg'), ],
                         views: '200',
                         wishList: '15',
 
@@ -317,7 +317,7 @@
                             }],
                             provenance: "europe france "
                         },
-                        productImg: [require('../images/pictures/bd/products/5.a.jpg'),
+                        productsImg: [require('../images/pictures/bd/products/5.a.jpg'),
                             require('../images/pictures/bd/products/5.b.jpg'),
                         ],
                         views: '2586',
@@ -336,7 +336,7 @@
                             }],
                             provenance: "europe france"
                         },
-                        productImg: [require('../images/pictures/bd/products/6.a.jpg'),
+                        productsImg: [require('../images/pictures/bd/products/6.a.jpg'),
                             require('../images/pictures/bd/products/6.a.jpg'),
                         ],
                         views: '3831',
@@ -355,7 +355,7 @@
                             }],
                             provenance: "Europe France"
                         },
-                        productImg: [require('../images/pictures/bd/products/7.a.jpg'),
+                        productsImg: [require('../images/pictures/bd/products/7.a.jpg'),
                             require('../images/pictures/bd/products/7.a.jpg'),
                         ],
                         views: '1850',
@@ -374,7 +374,7 @@
                             }],
                             provenance: "USA"
                         },
-                        productImg: [require('../images/pictures/bd/products/8.a.jpg'),
+                        productsImg: [require('../images/pictures/bd/products/8.a.jpg'),
                             require('../images/pictures/bd/products/8.b.jpg'),
                         ],
                         views: '1804',
@@ -393,7 +393,7 @@
                             }],
                             provenance: "EUROPE FRANCE"
                         },
-                        productImg: [require('../images/pictures/bd/products/9.a.jpg'),
+                        productsImg: [require('../images/pictures/bd/products/9.a.jpg'),
                             require('../images/pictures/bd/products/9.b.jpg'),
                         ],
                         views: '358RR0',
@@ -412,7 +412,7 @@
                             }],
                             provenance: "Asie japon"
                         },
-                        productImg: [require('../images/pictures/bd/products/10.a.jpg'),
+                        productsImg: [require('../images/pictures/bd/products/10.a.jpg'),
                             require('../images/pictures/bd/products/10.b.jpg'),
                         ],
                         views: '358RR0',
@@ -438,7 +438,7 @@
                             }],
                             provenance: "AMERIQUE USA"
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/1.a.jpg'),
+                        productsImg: [require('../images/pictures/livres_etrangers/products/1.a.jpg'),
                             require('../images/pictures/livres_etrangers/products/1.b.jpg'),
                             require('../images/pictures/livres_etrangers/products/1.c.jpg'),
                         ],
@@ -458,7 +458,7 @@
                             }],
                             provenance: ""
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/2.a.jpg'), ],
+                        productsImg: [require('../images/pictures/livres_etrangers/products/2.a.jpg'), ],
                         views: '1250',
                         wishList: '630',
 
@@ -475,7 +475,7 @@
                             }],
                             provenance: "EUROPE FRANCE"
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/3.a.jpg'),
+                        productsImg: [require('../images/pictures/livres_etrangers/products/3.a.jpg'),
                             require('../images/pictures/livres_etrangers/products/3.b.jpg'),
                         ],
                         views: '802',
@@ -494,7 +494,7 @@
                             }],
                             provenance: "Afrique"
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/4.a.jpg'),
+                        productsImg: [require('../images/pictures/livres_etrangers/products/4.a.jpg'),
                             require('../images/pictures/livres_etrangers/products/4.b.jpg'),
                         ],
                         views: '226',
@@ -513,7 +513,7 @@
                             }],
                             provenance: "europe france "
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/5.a.jpg'), ],
+                        productsImg: [require('../images/pictures/livres_etrangers/products/5.a.jpg'), ],
                         views: '2586',
                         wishList: '2334',
 
@@ -530,7 +530,7 @@
                             }],
                             provenance: "ARABIE SAOUDITE"
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/6.a.jpg')],
+                        productsImg: [require('../images/pictures/livres_etrangers/products/6.a.jpg')],
                         views: '3801',
                         wishList: '101',
 
@@ -547,7 +547,7 @@
                             }],
                             provenance: "Europe France"
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/7.a.jpg'),
+                        productsImg: [require('../images/pictures/livres_etrangers/products/7.a.jpg'),
                             require('../images/pictures/livres_etrangers/products/7.a.jpg'),
                         ],
                         views: '1850',
@@ -566,7 +566,7 @@
                             }],
                             provenance: "FRANCE"
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/8.a.jpg'), ],
+                        productsImg: [require('../images/pictures/livres_etrangers/products/8.a.jpg'), ],
                         views: '1804',
                         wishList: '730',
 
@@ -583,7 +583,7 @@
                             }],
                             provenance: "AMERIQUE MEXIQUE"
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/9.a.jpg'),
+                        productsImg: [require('../images/pictures/livres_etrangers/products/9.a.jpg'),
                             require('../images/pictures/livres_etrangers/products/9.b.jpg'), ,
                             require('../images/pictures/livres_etrangers/products/9.C.jpg')
                         ],
@@ -603,7 +603,7 @@
                             }],
                             provenance: "AMERIQUE USA"
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/10.b.jpg'),
+                        productsImg: [require('../images/pictures/livres_etrangers/products/10.b.jpg'),
                             require('../images/pictures/livres_etrangers/products/10.a.jpg'),
                         ],
                         views: '3580',
@@ -622,7 +622,7 @@
                             }],
                             provenance: "AMERIQUE USA"
                         },
-                        productImg: [require('../images/pictures/livres_etrangers/products/11.b.jpg'),
+                        productsImg: [require('../images/pictures/livres_etrangers/products/11.b.jpg'),
                             require('../images/pictures/livres_etrangers/products/11.a.jpg'),
                             require('../images/pictures/livres_etrangers/products/11.C.jpg'),
                             require('../images/pictures/livres_etrangers/products/11.D.jpg'),
@@ -651,7 +651,7 @@
                             }],
                             provenance: "ARABE"
                         },
-                        productImg: [require('../images/pictures/religions/products/1.a.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/1.a.jpg'),
                             require('../images/pictures/religions/products/1.b.jpg'),
                             require('../images/pictures/religions/products/1.c.jpg'),
                         ],
@@ -671,7 +671,7 @@
                             }],
                             provenance: "ARABE"
                         },
-                        productImg: [require('../images/pictures/religions/products/2.a.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/2.a.jpg'),
                             require('../images/pictures/religions/products/2.b.jpg'),
                         ],
                         views: '1250',
@@ -690,7 +690,7 @@
                             }],
                             provenance: "ABABE SAOUDITE"
                         },
-                        productImg: [require('../images/pictures/religions/products/3.a.jpg')],
+                        productsImg: [require('../images/pictures/religions/products/3.a.jpg')],
                         views: '802',
                         wishList: '623',
 
@@ -707,7 +707,7 @@
                             }],
                             provenance: "MAROC"
                         },
-                        productImg: [require('../images/pictures/religions/products/4.a.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/4.a.jpg'),
                             require('../images/pictures/religions/products/4.b.jpg'),
                         ],
                         views: '2236',
@@ -726,7 +726,7 @@
                             }],
                             provenance: " "
                         },
-                        productImg: [require('../images/pictures/religions/products/5.a.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/5.a.jpg'),
                             require('../images/pictures/religions/products/5.b.jpg')
                         ],
                         views: '2586',
@@ -745,7 +745,7 @@
                             }],
                             provenance: "ARABIE SAOUDITE"
                         },
-                        productImg: [require('../images/pictures/religions/products/6.a.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/6.a.jpg'),
                             require('../images/pictures/religions/products/6.b.jpg')
                         ],
                         views: '3801',
@@ -764,7 +764,7 @@
                             }],
                             provenance: "ARABE SAOUDI"
                         },
-                        productImg: [require('../images/pictures/religions/products/7.a.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/7.a.jpg'),
                             require('../images/pictures/religions/products/7.b.jpg'),
                         ],
                         views: '1850',
@@ -783,7 +783,7 @@
                             }],
                             provenance: ""
                         },
-                        productImg: [require('../images/pictures/religions/products/8.a.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/8.a.jpg'),
                             require('../images/pictures/religions/products/8.b.jpg')
                         ],
                         views: '1804',
@@ -802,7 +802,7 @@
                             }],
                             provenance: "ABABIE SAOUDIE"
                         },
-                        productImg: [require('../images/pictures/religions/products/9.a.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/9.a.jpg'),
                             require('../images/pictures/religions/products/9.b.jpg'),
                         ],
                         views: '3580',
@@ -821,7 +821,7 @@
                             }],
                             provenance: ""
                         },
-                        productImg: [require('../images/pictures/religions/products/10.a.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/10.a.jpg'),
                             require('../images/pictures/religions/products/10.b.jpg'),
                             require('../images/pictures/religions/products/10.C.jpg'),
                         ],
@@ -841,7 +841,7 @@
                             }],
                             provenance: "ARABIE SAOUDIE"
                         },
-                        productImg: [require('../images/pictures/religions/products/11.b.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/11.b.jpg'),
                             require('../images/pictures/religions/products/11.a.jpg'),
                             require('../images/pictures/religions/products/11.C.jpg'),
                         ],
@@ -861,7 +861,7 @@
                             }],
                             provenance: "ARABIE SAOUDIE"
                         },
-                        productImg: [require('../images/pictures/religions/products/11.b.jpg'),
+                        productsImg: [require('../images/pictures/religions/products/11.b.jpg'),
                             require('../images/pictures/religions/products/11.a.jpg')
                         ],
                         views: '3580',
