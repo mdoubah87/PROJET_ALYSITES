@@ -23,7 +23,7 @@
                         require('../Images/PowerBank/P1/pw4.png'),
                     ],
                     views: "2453",
-                    wishlist: "456",
+                    wishList: "456",
                 },
                 {
                     key: 'gf8718vbs4',
@@ -41,7 +41,7 @@
                         require('../Images/PowerBank/P2/p24.png'),
                     ],
                     views: "2451",
-                    wishlist: "456",
+                    wishList: "456",
                 },
                 {
                     key: 'gf8718vbs4',
@@ -59,7 +59,7 @@
                         require('../Images/PowerBank/P3/p34.png'),
                     ],
                     views: "3214",
-                    wishlist: "239",
+                    wishList: "239",
                 },
                 {
                     key: 'gf8718vbs4',
@@ -77,7 +77,7 @@
                         require('../Images/PowerBank/P4/p44.jpg'),
                     ],
                     views: "6541",
-                    wishlist: "1987",
+                    wishList: "1987",
                 },
                 {
                     key: 'gf8718vbs4',
@@ -95,7 +95,7 @@
                         require('../Images/PowerBank/P5/p54.png'),
                     ],
                     views: "3957",
-                    wishlist: "989",
+                    wishList: "989",
                 },
                 {
                     key: 'PwdFr4547hY67',
@@ -113,7 +113,7 @@
                         require('../Images/PowerBank/P6/p64.png'),
                     ],
                     views: "5199",
-                    wishlist: "206",
+                    wishList: "206",
                 },
 
 
@@ -141,7 +141,7 @@
                         require('../Images/Chargeur/P1/p14.png'),
                     ],
                     views: "2765",
-                    wishlist: "628",
+                    wishList: "628",
                 },
                 {
                     key: 'jvxf706zx1371jhd11',
@@ -159,7 +159,7 @@
                         require('../Images/Chargeur/P2/p24.png'),
                     ],
                     views: "6729",
-                    wishlist: "423",
+                    wishList: "423",
                 },
                 {
                     key: 'jjhdh567j2',
@@ -178,7 +178,7 @@
                         require('../Images/Chargeur/P3/p35.png'),
                     ],
                     views: "6758",
-                    wishlist: "333",
+                    wishList: "333",
                 },
                 {
                     key: 'fghdh567g43',
@@ -196,7 +196,7 @@
                         require('../Images/Chargeur/P4/p44.png'),
                     ],
                     views: "3148",
-                    wishlist: "897",
+                    wishList: "897",
                 },
                 {
                     key: 'jjhdh554hgf8',
@@ -215,7 +215,7 @@
                         require('../Images/Chargeur/P5/p55.png'),
                     ],
                     views: "4445",
-                    wishlist: "765",
+                    wishList: "765",
                 },
                 {
                     key: 'jjhdhgTTy67',
@@ -234,7 +234,7 @@
                         require('../Images/Chargeur/P6/p65.png'),
                     ],
                     views: "6590",
-                    wishlist: "2345",
+                    wishList: "2345",
                 },
 
 
@@ -263,7 +263,7 @@
                         require('../Images/Accessoires/P1/p15.png'),
                     ],
                     views: "4887",
-                    wishlist: "466",
+                    wishList: "466",
                 },
                 {
                     key: 'Gfdsr43jZ7',
@@ -282,7 +282,7 @@
                         require('../Images/Accessoires/P2/p25.png'),
                     ],
                     views: "5000",
-                    wishlist: "544",
+                    wishList: "544",
                 },
                 {
                     key: 'Gfdsr43Df45',
@@ -301,7 +301,7 @@
                         require('../Images/Accessoires/P3/p35.png'),
                     ],
                     views: "2119",
-                    wishlist: "771",
+                    wishList: "771",
                 },
                 {
                     key: 'Gfds19hGG77',
@@ -319,7 +319,7 @@
                         require('../Images/Accessoires/P4/p44.png'),
                     ],
                     views: "5533",
-                    wishlist: "4532",
+                    wishList: "4532",
                 },
                 {
                     key: 'Gfds19hvFF23',
@@ -338,7 +338,7 @@
                         require('../Images/Accessoires/P5/p55.png'),
                     ],
                     views: "3434",
-                    wishlist: "555",
+                    wishList: "555",
                 },
                 {
                     key: '',
@@ -359,7 +359,7 @@
                         require('../Images/Accessoires/P6/p65.png'),
                     ],
                     views: "6654",
-                    wishlist: "670",
+                    wishList: "670",
                 },
             ],
         },

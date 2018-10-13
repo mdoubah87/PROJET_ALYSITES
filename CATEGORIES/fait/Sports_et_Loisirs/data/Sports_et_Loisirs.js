@@ -26,7 +26,7 @@
                                 require('../Images/Vêtements de sports/P1/p15.png'),
                             ],
                             views: "3429",
-                            wishlist: "767",
+                            wishList: "767",
                         },
                         {
                             key: 'fggVGB56VCXD4',
@@ -45,7 +45,7 @@
                                 require('../Images/Vêtements de sports/P2/p25.png'),
                             ],
                             views: "6750",
-                            wishlist: "7342",
+                            wishList: "7342",
                         },
                         {
                             key: 'fggVGB56DSE455',
@@ -65,7 +65,7 @@
                                 require('../Images/Vêtements de sports/P3/p36.png'),
                             ],
                             views: "9876",
-                            wishlist: "698",
+                            wishList: "698",
                         },
                         {
                             key: 'fggVhgTTR8',
@@ -86,7 +86,7 @@
                                 require('../Images/Vêtements de sports/P4/p47.png'),
                             ],
                             views: "5645",
-                            wishlist: "776",
+                            wishList: "776",
                         },
                         {
                             key: 'fggVhcvRA2',
@@ -107,7 +107,7 @@
                                 require('../Images/Vêtements de sports/P5/p57.png'),
                             ],
                             views: "5429",
-                            wishlist: "0982",
+                            wishList: "0982",
                         },
                         {
                             key: 'fgfdsrRR4',
@@ -127,7 +127,7 @@
                                 require('../Images/Vêtements de sports/P6/p66.png'),
                             ],
                             views: "5009",
-                            wishlist: "2444",
+                            wishList: "2444",
                         },
                         {
                             key: 'fgfdsr234GGh1',
@@ -148,7 +148,7 @@
                                 require('../Images/Vêtements de sports/P7/p77.png'),
                             ],
                             views: "2315",
-                            wishlist: "555",
+                            wishList: "555",
                         },
                         {
                             key: 'GrrFF45hg6',
@@ -168,7 +168,7 @@
                                 require('../Images/Vêtements de sports/P8/p86.png'),
                             ],
                             views: "5541",
-                            wishlist: "9112",
+                            wishList: "9112",
                         },
                         {
                             key: 'GrrUUjh6',
@@ -190,7 +190,7 @@
                                 require('../Images/Vêtements de sports/P9/p98.png'),
                             ],
                             views: "8876",
-                            wishlist: "7658",
+                            wishList: "7658",
                         },
                         {
                             key: 'GrrUU77765y4',
@@ -211,7 +211,7 @@
                                 require('../Images/Vêtements de sports/P10/p107.png'),
                             ],
                             views: "4434",
-                            wishlist: "5643",
+                            wishList: "5643",
                         },
                     ],
 
@@ -222,7 +222,7 @@
             {
                 key: 'dFFR556hgT7',
                 imgUrl: require('../Images/Sneakers/S.png'),
-                name: '',
+                name: 'Sneakers',
                 products: [
                     {
                         key: 'dFFR556h234',
@@ -241,7 +241,7 @@
                             require('../Images/Sneakers/P1/S15.png'),
                         ],
                         views: "4513",
-                        wishlist: "666",
+                        wishList: "666",
                     },
                     {
                         key: 'dFFRQSSQ56',
@@ -260,7 +260,7 @@
                             require('../Images/Sneakers/P2/S25.png'),
                         ],
                         views: "4443",
-                        wishlist: "7761",
+                        wishList: "7761",
                     },
                     {
                         key: 'dFFRQYYtt8',
@@ -280,7 +280,7 @@
                             require('../Images/Sneakers/P3/S36.png'),
                         ],
                         views: "8090",
-                        wishlist: "4559",
+                        wishList: "4559",
                     },
                     {
                         key: 'dFFRQFF770',
@@ -299,7 +299,7 @@
                             require('../Images/Sneakers/P4/S45.png'),
                         ],
                         views: "4458",
-                        wishlist: "1112",
+                        wishList: "1112",
                     },
                     {
                         key: 'dcxXX459n9',
@@ -318,7 +318,7 @@
                             require('../Images/Sneakers/P5/S55.png'),
                         ],
                         views: "3322",
-                        wishlist: "2221",
+                        wishList: "2221",
                     },
                     {
                         key: 'dcxXX4332S08',
@@ -337,7 +337,7 @@
                             require('../Images/Sneakers/P6/S65.png'),
                         ],
                         views: "6001",
-                        wishlist: "5543",
+                        wishList: "5543",
                     },
                     {
                         key: 'dcxVV564xXX7',
@@ -359,7 +359,7 @@
                             require('../Images/Sneakers/P7/S76.png'),
                         ],
                         views: "9238",
-                        wishlist: "7245",
+                        wishList: "7245",
                     },
                     {
                         key: 'dFFRQScv54',
@@ -379,7 +379,7 @@
                             require('../Images/Sneakers/P8/S85.png'),
                         ],
                         views: "5659",
-                        wishlist: "4567",
+                        wishList: "4567",
                     },
                     {
                         key: 'dFFRHHG67',
@@ -399,7 +399,7 @@
                             require('../Images/Sneakers/P9/S95.png'),
                         ],
                         views: "3241",
-                        wishlist: "137",
+                        wishList: "137",
                     },
                     {
                         key: 'dFFRQSSQ45',
@@ -419,7 +419,7 @@
                             require('../Images/Sneakers/P10/S10.png'),
                         ],
                         views: "2928",
-                        wishlist: "540",
+                        wishList: "540",
                     },
                     {
                         key: 'GfGG454H7',
@@ -440,7 +440,7 @@
                             require('../Images/Sneakers/P11/S116.png'),
                         ],
                         views: "1312",
-                        wishlist: "767",
+                        wishList: "767",
                     },
                 
                 ],
@@ -471,7 +471,7 @@
                             require('../Images/Natation/P1/N15.png'),
                         ],
                         views: "3876",
-                        wishlist: "781",
+                        wishList: "781",
                     },
                     {
                         key: 'NSddS4Gg56',
@@ -490,7 +490,7 @@
                             require('../Images/Natation/P2/N25.png'),
                         ],
                         views: "6290",
-                        wishlist: "777",
+                        wishList: "777",
                     },
                     {
                         key: 'NSddvBB56',
@@ -510,7 +510,7 @@
                             require('../Images/Natation/P3/N36.png'),
                         ],
                         views: "7876",
-                        wishlist: "998",
+                        wishList: "998",
                     },
                     {
                         key: 'NSddvCCc45',
@@ -529,7 +529,7 @@
                             require('../Images/Natation/P4/N45.png'),
                         ],
                         views: "4387",
-                        wishlist: "202",
+                        wishList: "202",
                     },
                     {
                         key: 'NSFfXC54',
@@ -546,10 +546,9 @@
                             require('../Images/Natation/P5/N53.png'),
                             require('../Images/Natation/P5/N54.png'),
                             require('../Images/Natation/P5/N55.png'),
-                            require('../Images/Natation/P5/N56.png'),
                         ],
                         views: "8762",
-                        wishlist: "142",
+                        wishList: "142",
                     },
                     {
                         key: 'NSjGG571',
@@ -568,7 +567,7 @@
                             require('../Images/Natation/P6/N65.png'),
                         ],
                         views: "8102",
-                        wishlist: "291",
+                        wishList: "291",
                     },
                     {
                         key: 'NSjGG571',
@@ -587,7 +586,7 @@
                             require('../Images/Natation/P7/N75.png'),
                         ],
                         views: "6780",
-                        wishlist: "302",
+                        wishList: "302",
                     },
                     {
                         key: 'NSjgHH67c6',
@@ -606,7 +605,7 @@
                             require('../Images/Natation/P8/N85.png'),
                         ],
                         views: "4378",
-                        wishlist: "409",
+                        wishList: "409",
                     },
                     {
                         key: 'NSjgnNN56g6',
@@ -624,12 +623,12 @@
                             require('../Images/Natation/P9/N94.png'),
                             require('../Images/Natation/P9/N95.png'),
                         ],
-                        views: "",
-                        wishlist: "",
+                        views: "5659",
+                        wishList: "123",
                     },
                     {
                         key: 'NSjgnhDDs459',
-                        imgUrl: require('../Images/Natation/P10/N101'),
+                        imgUrl: require('../Images/Natation/P10/N101.png'),
                         name: "Udenx Montre Connectée Sport",
                         description: {
                             features: [{
@@ -638,13 +637,13 @@
                             
                         },
                         productsImg: [
-                            require('../Images/Natation/P10/N102'),
-                            require('../Images/Natation/P10/N103'),
-                            require('../Images/Natation/P10/N104'),
-                            require('../Images/Natation/P10/N105'),
+                            require('../Images/Natation/P10/N102.png'),
+                            require('../Images/Natation/P10/N103.png'),
+                            require('../Images/Natation/P10/N104.png'),
+                            require('../Images/Natation/P10/N105.png'),
                         ],
                         views: "4431",
-                        wishlist: "513",
+                        wishList: "513",
                     },
                 ]
             },
