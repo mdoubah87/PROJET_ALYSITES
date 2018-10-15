@@ -27,7 +27,7 @@
                                 require('../Images/Cheveux Tisse/P1/C16.png'),
                             ],
                             views: "2330",
-                            wishlist: "5106",
+                            wishList: "5106",
                         },
                         {
                             key: 'MeggVGhhg762v6',
@@ -46,7 +46,7 @@
                                 require('../Images/Cheveux Tisse/P1/C25.png'),
                             ],
                             views: "9008",
-                            wishlist: "1008",
+                            wishList: "1008",
                         },
                         {
                             key: 'MeggQdhhg614',
@@ -65,7 +65,7 @@
                                 require('../Images/Cheveux Tisse/P1/C35.png'),
                             ],
                             views: "8794",
-                            wishlist: "7612",
+                            wishList: "7612",
                         },
                         {
                             key: 'MegDc6hhg6220',
@@ -84,7 +84,7 @@
                                 require('../Images/Cheveux Tisse/P1/C45.png'),
                             ],
                             views: "6710",
-                            wishlist: "187",
+                            wishList: "187",
                         },
                         {
                             key: 'MeggBgGt76',
@@ -103,7 +103,7 @@
                                 require('../Images/Cheveux Tisse/P1/C55.png'),
                             ],
                             views: "81716",
-                            wishlist: "8871",
+                            wishList: "8871",
                         },
                         {
                             key: 'MegFgTR65jI9',
@@ -122,7 +122,7 @@
                                 require('../Images/Cheveux Tisse/P1/C64.png'),
                             ],
                             views: "7611",
-                            wishlist: "1100",
+                            wishList: "1100",
                         },
                         {
                             key: 'MeggVYyUI891',
@@ -141,7 +141,7 @@
                                 require('../Images/Cheveux Tisse/P1/C75.png'),
                             ],
                             views: "7600",
-                            wishlist: "881",
+                            wishList: "881",
                         },
                         {
                             key: 'MegDPoI9821',
@@ -160,7 +160,7 @@
                                 require('../Images/Cheveux Tisse/P1/C85.png'),
                             ],
                             views: "10928",
-                            wishlist: "520",
+                            wishList: "520",
                         },
                         {
                             key: 'MeJUsT624',
@@ -180,7 +180,7 @@
                                 require('../Images/Cheveux Tisse/P1/C96.png'),
                             ],
                             views: "4254",
-                            wishlist: "892",
+                            wishList: "892",
                         },
                         {
                             key: 'MeKlOAR554',
@@ -199,7 +199,7 @@
                                 require('../Images/Cheveux Tisse/P1/105.png'),
                             ],
                             views: "4237",
-                            wishlist: "876",
+                            wishList: "876",
                         },
                     ]
             },
@@ -230,7 +230,7 @@
                                 require('../Images/Perruque humaine/P1/P15.png'),
                             ],
                             views: "8719",
-                            wishlist: "901",
+                            wishList: "901",
                         },
                         {
                             key: 'MephARt5Gnn9',
@@ -249,7 +249,7 @@
                                 require('../Images/Perruque humaine/P2/P24.png'),
                             ],
                             views: "5492",
-                            wishlist: "577",
+                            wishList: "577",
                         },
                         {
                             key: 'MephARgg33edS4',
@@ -268,7 +268,7 @@
                                 require('../Images/Perruque humaine/P3/P34.png'),
                             ],
                             views: "9811",
-                            wishlist: "765",
+                            wishList: "765",
                         },
                         {
                             key: 'MephARt99NJJu1',
@@ -287,7 +287,7 @@
                                 require('../Images/Perruque humaine/P4/P45.png'),
                             ],
                             views: "4560",
-                            wishlist: "723",
+                            wishList: "723",
                         },
                         {
                             key: 'MephARtg21BBH01',
@@ -306,7 +306,7 @@
                                 require('../Images/Perruque humaine/P5/P4.png'),
                             ],
                             views: "1191",
-                            wishlist: "1091",
+                            wishList: "1091",
                         },
                         {
                             key: 'MephZeRT7609',
@@ -325,7 +325,7 @@
                                 require('../Images/Perruque humaine/P6/P65.png'),
                             ],
                             views: "5699",
-                            wishlist: "653",
+                            wishList: "653",
                         },
                         {
                             key: 'MepSDFre454t5',
@@ -344,7 +344,7 @@
                                 require('../Images/Perruque humaine/P7/P75.png'),
                             ],
                             views: "4001",
-                            wishlist: "551",
+                            wishList: "551",
                         },
                         {
                             key: 'Mephff554kI0',
@@ -363,7 +363,7 @@
                                 require('../Images/Perruque humaine/P8/P85.png'),
                             ],
                             views: "4543",
-                            wishlist: "806",
+                            wishList: "806",
                         },
                         {
                             key: 'MephmAz762TyU8',
@@ -383,7 +383,7 @@
                                 require('../Images/Perruque humaine/P9/P96.png'),
                             ],
                             views: "9001",
-                            wishlist: "5671",
+                            wishList: "5671",
                         },
                         {
                             key: 'MephARt516kI4',
@@ -402,7 +402,7 @@
                                 require('../Images/Perruque humaine/P10/P105.png'),
                             ],
                             views: "10098",
-                            wishlist: "6765",
+                            wishList: "6765",
                         },
                     ]
             },
@@ -433,7 +433,7 @@
                                 require('../Images/Outils et Accessoires/P1/P15.png'),
                             ],
                             views: "5467",
-                            wishlist: "879",
+                            wishList: "879",
                         },
                         {
                             key: 'MeAKJHhzfsrt561',
@@ -452,7 +452,7 @@
                                 require('../Images/Outils et Accessoires/P2/P25.png'),
                             ],
                             views: "4517",
-                            wishlist: "998",
+                            wishList: "998",
                         },
                         {
                             key: 'MeAHHyyuiO098',
@@ -471,7 +471,7 @@
                                 require('../Images/Outils et Accessoires/P3/P35.png'),
                             ],
                             views: "5698",
-                            wishlist: "094",
+                            wishList: "094",
                         },
                         {
                             key: 'MeAH6190oNN8',
@@ -490,7 +490,7 @@
                                 require('../Images/Outils et Accessoires/P4/P45.png'),
                             ],
                             views: "6009",
-                            wishlist: "541",
+                            wishList: "541",
                         },
                         {
                             key: 'MeA43rer459n',
@@ -511,7 +511,7 @@
                                 require('../Images/Outils et Accessoires/P5/P57.png'),
                             ],
                             views: "5647",
-                            wishlist: "1000",
+                            wishList: "1000",
                         },
                         {
                             key: 'MeA5614jKKILopM9',
@@ -531,7 +531,7 @@
                                 require('../Images/Outils et Accessoires/P6/P66.png'),
                             ],
                             views: "2109",
-                            wishlist: "1345",
+                            wishList: "1345",
                         },
                         {
                             key: 'MeAtRRF665hgY',
@@ -550,7 +550,7 @@
                                 require('../Images/Outils et Accessoires/P7/P75.png'),
                             ],
                             views: "4437",
-                            wishlist: "8833",
+                            wishList: "8833",
                         },
                         {
                             key: 'MeA44RffTYbVV1',
@@ -571,7 +571,7 @@
                                 require('../Images/Outils et Accessoires/P8/P87.png'),
                             ],
                             views: "4456",
-                            wishlist: "6633",
+                            wishList: "6633",
                         },
                         {
                             key: 'MeAtRRFggBV65',
@@ -590,7 +590,7 @@
                                 require('../Images/Outils et Accessoires/P9/P95.png'),
                             ],
                             views: "40098",
-                            wishlist: "4876",
+                            wishList: "4876",
                         },
                         {
                             key: 'MeA554rfDDc445',
@@ -610,7 +610,7 @@
                                 require('../Images/Outils et Accessoires/P10/P106.png'),
                             ],
                             views: "4999",
-                            wishlist: "2222",
+                            wishList: "2222",
                         },
                     ]
             },
