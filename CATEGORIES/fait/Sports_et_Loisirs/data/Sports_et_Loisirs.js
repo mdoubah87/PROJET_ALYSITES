@@ -646,193 +646,195 @@
                 products: [
                     {
                         key: 'MusEdFRF5TT6Y7',
-                        imgUrl: require(''),
-                        name: "",
+                        imgUrl: require('../images/Musculations/P1/p11.png'),
+                        name: "Appareil Sans fil Tonifiant Musculaire ",
                         description: {
                             features: [{
-                                info: "",
+                                info: "Appareil Sans fil Tonifiant Musculaire (Muscle Toner) Rechargeable , Stimulateur Musculaire EMS Gym pad Abs Trainer, ceinture abdominale de tonification, Appareil Entraîneur (Formateur) de taille pour la santé physique du corps, Gymnase d’entrainement et appareil de fitness à domicile pour les hommes et les femmes (avec contrôle de l’application via Bluetooth)",
                             },]
                             
                         },
                         productsImg: [
-                            require(''),
-                            require(''),
-                            require(''),
-                            require(''),
+                            require('../images/Musculations/P1/p12.png'),
+                            require('../images/Musculations/P1/p13.png'),
+                            require('../images/Musculations/P1/p14.png'),
+                            require('../images/Musculations/P1/p15.png'),
                         ],
-                        views: "",
-                        wishList: "",
+                        views: "3178",
+                        wishList: "167",
                     },
                     {
                         key: 'Mus34rtgUJHY678',
-                        imgUrl: require(''),
-                        name: "",
+                        imgUrl: require('../images/Musculations/P2/p21.png'),
+                        name: "SportPlus+",
                         description: {
                             features: [{
-                                info: "",
+                                info: "SportPlus+ Essential Workout - Banc de Musculation Mixte Adulte",
                             },]
                             
                         },
                         productsImg: [
-                            require(''),
-                            require(''),
-                            require(''),
-                            require(''),
+                            require('../images/Musculations/P2/p22.png'),
+                            require('../images/Musculations/P2/p23.png'),
+                            require('../images/Musculations/P2/p24.png'),
+                            require('../images/Musculations/P2/p25.png'),
+                            require('../images/Musculations/P2/p26.png'),
                         ],
-                        views: "",
-                        wishList: "",
+                        views: "4221",
+                        wishList: "456",
                     },
                     {
                         key: 'Mus5556tt6YU78',
-                        imgUrl: require(''),
-                        name: "",
+                        imgUrl: require('../images/Musculations/P3/p31.png'),
+                        name: "TOMSHOO ",
                         description: {
                             features: [{
-                                info: "",
+                                info: "TOMSHOO Appareils de Fitness 5 en 1 Roue Abdominale + Poignée de Pompe + Corde à Sauter + Pince à Main + Tapis pour Genou Kit Complet pour Fitness Exercices Musculation",
                             },]
                             
                         },
                         productsImg: [
-                            require(''),
-                            require(''),
-                            require(''),
-                            require(''),
+                            require('../images/Musculations/P3/p32.png'),
+                            require('../images/Musculations/P3/p33.png'),
+                            require('../images/Musculations/P3/p34.png'),
+                            require('../images/Musculations/P3/p35.png'),
                         ],
-                        views: "",
-                        wishList: "",
+                        views: "5178",
+                        wishList: "423",
                     },
                     {
                         key: 'MusJJu887ikU7',
-                        imgUrl: require(''),
-                        name: "",
+                        imgUrl: require('../images/Musculations/P4/p41.png'),
+                        name: "SONGMICS Kit",
                         description: {
                             features: [{
-                                info: "",
+                                info: "SONGMICS Kit Haltères Musculation, Poids Ajustable, avec Barre d’Extension supplémentaire, pour Hommes et Femmes, Musculation, Prise de Masse à la Maison ",
                             },]
                             
                         },
                         productsImg: [
-                            require(''),
-                            require(''),
-                            require(''),
-                            require(''),
+                            require('../images/Musculations/P4/p42.png'),
+                            require('../images/Musculations/P4/p43.png'),
+                            require('../images/Musculations/P4/p44.png'),
+                            require('../images/Musculations/P4/p45.png'),
                         ],
-                        views: "",
-                        wishList: "",
+                        views: "1876",
+                        wishList: "199",
                     },
                     {
                         key: 'MusZZsDDE4458iK8',
-                        imgUrl: require(''),
-                        name: "",
+                        imgUrl: require('../images/Musculations/P5/p51.png'),
+                        name: "Fingerhantel Handgreif",
                         description: {
                             features: [{
-                                info: "",
+                                info: "Set aus 2 Hand Trainingsgerät, Jr.Hagrid Fingerhantel Handgreif Trainer Handmuskeltrainer Einstellbarer Widerstandsbereich(10-50 Kg), Unterarm Krafttraining Schwer Handgelenk-Schwarz ",
                             },]
                             
                         },
                         productsImg: [
-                            require(''),
-                            require(''),
-                            require(''),
-                            require(''),
+                            require('../images/Musculations/P5/p52.png'),
+                            require('../images/Musculations/P5/p53.png'),
+                            require('../images/Musculations/P5/p54.png'),
+                            require('../images/Musculations/P5/p55.png'),
                         ],
-                        views: "",
-                        wishList: "",
+                        views: "4278",
+                        wishList: "111",
                     },
                     {
                         key: 'MusGcFRT1324gT5',
-                        imgUrl: require(''),
-                        name: "",
+                        imgUrl: require('../images/Musculations/P6/p61.png'),
+                        name: "PROIRON Haltères",
                         description: {
                             features: [{
-                                info: "",
+                                info: "PROIRON Haltères en Néoprène Paire d'haltères de 1kg à 10kg dans Différents Poids (2er-Set) ",
                             },]
                             
                         },
                         productsImg: [
-                            require(''),
-                            require(''),
-                            require(''),
-                            require(''),
+                            require('../images/Musculations/P6/p62.png'),
+                            require('../images/Musculations/P6/p63.png'),
+                            require('../images/Musculations/P6/p64.png'),
+                            require('../images/Musculations/P6/p65.png'),
+                            require('../images/Musculations/P6/p66.png'),
                         ],
-                        views: "",
-                        wishList: "",
+                        views: "2346",
+                        wishList: "673",
                     },
                     {
                         key: 'MusxXXCDYT678',
-                        imgUrl: require(''),
-                        name: "",
+                        imgUrl: require('../images/Musculations/P7/p71.png'),
+                        name: "DoYourFitness",
                         description: {
                             features: [{
-                                info: "",
+                                info: "Haltères d'aérobic »liona«/idéals pour la rééducation et l'endurance/haltères de fitness avec revêtement en mousse synthétique/disponible en différents poids et couleurs",
                             },]
                             
                         },
                         productsImg: [
-                            require(''),
-                            require(''),
-                            require(''),
-                            require(''),
+                            require('../images/Musculations/P7/p72.png'),
+                            require('../images/Musculations/P7/p73.png'),
+                            require('../images/Musculations/P7/p74.png'),
+                            require('../images/Musculations/P7/p75.png'),
                         ],
-                        views: "",
-                        wishList: "",
+                        views: "2134",
+                        wishList: "238",
                     },
                     {
                         key: 'MusSdSSerJHY676898O8',
-                        imgUrl: require(''),
-                        name: "",
+                        imgUrl: require('../images/Musculations/P8/p81.png'),
+                        name: "Bandes genoux ",
                         description: {
                             features: [{
-                                info: "",
+                                info: "Bandes genoux pour haltérophilie et musculation et sangles pour poignets ",
                             },]
                             
                         },
                         productsImg: [
-                            require(''),
-                            require(''),
-                            require(''),
-                            require(''),
+                            require('../images/Musculations/P8/p82.png'),
+                            require('../images/Musculations/P8/p83.png'),
+                            require('../images/Musculations/P8/p84.png'),
+                            require('../images/Musculations/P8/p85.png'),
                         ],
-                        views: "",
-                        wishList: "",
+                        views: "7610",
+                        wishList: "188",
                     },
                     {
                         key: 'MusfqgTQQAze3476yhGT78',
-                        imgUrl: require(''),
-                        name: "",
+                        imgUrl: require('../images/Musculations/P9/p91.png'),
+                        name: "Sports Tremendour ",
                         description: {
                             features: [{
-                                info: "",
+                                info: "Capital Sports Tremendour Power Rack Cage Squat Station de Musculation 2 x Safety Spotter: 20 hauteurs 4 x J-Hooks Barre de Traction multiprise Construction Massive en Acier Noir",
                             },]
                             
                         },
                         productsImg: [
-                            require(''),
-                            require(''),
-                            require(''),
-                            require(''),
+                            require('../images/Musculations/P9/p92.png'),
+                            require('../images/Musculations/P9/p93.png'),
+                            require('../images/Musculations/P9/p94.png'),
+                            require('../images/Musculations/P9/p95.png'),
                         ],
-                        views: "",
-                        wishList: "",
+                        views: "3114",
+                        wishList: "562",
                     },
                     {
                         key: 'MusYhgFFrtUSS3426oP9',
-                        imgUrl: require(''),
-                        name: "",
+                        imgUrl: require('../images/Musculations/P10/p101.png'),
+                        name: "Gorilla Sports",
                         description: {
                             features: [{
-                                info: "",
+                                info: "Gorilla Sports Smith Machine Machine avec Power Rack, Multi Station et Presse.",
                             },]
                             
                         },
                         productsImg: [
-                            require(''),
-                            require(''),
-                            require(''),
-                            require(''),
+                            require('../images/Musculations/P10/p102.png'),
+                            require('../images/Musculations/P10/p103.png'),
+                            require('../images/Musculations/P10/p104.png'),
+                            require('../images/Musculations/P10/p105.png'),
                         ],
-                        views: "",
-                        wishList: "",
+                        views: "6654",
+                        wishList: "777",
                     },
                 ]
             },
