@@ -54,7 +54,7 @@
             {
                 key: 'fyuu6578ts5rrre3',
                 imgUrl: require('../images/Ecouteurs_Casques/1.png'),
-                name: 'Ecouteurs et Casques',
+                name: 'Ecouteurs / Casques et Enceinte',
                 products: 
                 [
                     {
