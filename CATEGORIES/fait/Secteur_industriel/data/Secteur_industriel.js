@@ -10,7 +10,7 @@
             {
                 key: '',
                 imgUrl: require('../images/pictures/aliminium/1.png'),
-                name: 'Aliminium',
+                name: 'Aluminium',
                 products: 
                 [
                     
