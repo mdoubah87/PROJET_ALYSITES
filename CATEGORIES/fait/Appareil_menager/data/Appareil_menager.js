@@ -3,7 +3,7 @@
     {
         key: 'fgkkf84jkdfv57ffifi4jur857',
         imgUrl: require('../images/1.png'),
-        name: '',
+        name: 'Appareils Ménagers',
         subCategories: 
         [
             
@@ -51,85 +51,7 @@
                     },
                 ]
             },
-            {
-                key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            {
-                key: 'fyuu65784ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            {
-                key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            {
-                key: 'fyuu6578rrts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            {
-                key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            {
-                key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            {
-                key: 'fyuu6578tts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            
-            
+      
         ],
     },
 

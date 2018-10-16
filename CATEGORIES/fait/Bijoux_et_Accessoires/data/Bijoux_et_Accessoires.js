@@ -13,9 +13,7 @@
                 name: 'Alliances',
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
@@ -24,9 +22,7 @@
                 name: 'Bagues',
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
@@ -35,9 +31,7 @@
                 name: 'Bijoux Africain',
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             {
@@ -46,9 +40,7 @@
                 name: 'Bijoux Corporels',
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             {
@@ -57,9 +49,7 @@
                 name: 'Bijoux en Argent',
                 products: 
                 [
-                    {
-                        
-                    },
+                  
                 ]
             },
             {
@@ -68,9 +58,7 @@
                 name: 'Bijoux en Diamant',
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
@@ -79,9 +67,7 @@
                 name: 'Bijoux en Or',
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             {
@@ -90,9 +76,7 @@
                 name: 'Bijoux pour Enfant',
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             {
@@ -101,9 +85,7 @@
                 name: 'Bijoux pour Homme',
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
@@ -112,9 +94,7 @@
                 name: 'Bijou pour les Pieds',
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
@@ -123,9 +103,7 @@
                 name: 'Boites a Bijoux',
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
@@ -145,9 +123,7 @@
                 name: "Bracelets",
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             {
@@ -156,9 +132,7 @@
                 name: "Collier de Parure",
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             {
@@ -167,9 +141,7 @@
                 name: "Colliers",
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             {
@@ -178,9 +150,7 @@
                 name: "Montre bracelets",
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
@@ -189,9 +159,7 @@
                 name: "Pendentifs",
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
@@ -200,9 +168,7 @@
                 name: "Perle",
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             {
@@ -211,9 +177,7 @@
                 name: "Porte clés",
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             
