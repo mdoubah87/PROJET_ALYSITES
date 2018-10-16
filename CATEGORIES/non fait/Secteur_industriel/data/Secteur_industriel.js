@@ -1,134 +1,67 @@
 [
 
     {
-        key: 'fgkkf84jkdfv57ffifi4jur857',
+        key: '',
         imgUrl: require('../images/1.png'),
-        name: '',
+        name: 'Secteur industriel',
         subCategories: 
         [
             
             {
-                key: '12ejh5445fghffdfgefe120gg2d3r',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
+                key: '',
+                imgUrl: require('../images/pictures/aliminium/1.png'),
+                name: 'Aliminium',
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
-                key: '12ejh45fghffdfgefe12yjyt0gg2d3r',
-                imgUrl: require('../images/pictures//1.png'),
-                name: ' ',
+                key: '',
+                imgUrl: require('../images/pictures/emballage/1.png'),
+                name: "Machine d'emballage",
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
-                key: 'yyyjnvh67676fghjhhhjhjh',
-                imgUrl: require('../images/pictures//1.png'),
-                name: ' ',
+                key: '',
+                imgUrl: require('../images/pictures/energie/1.png'),
+                name: 'Energie',
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             {
-                key: 'fyuu6578ts5e3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
+                key: '',
+                imgUrl: require('../images/pictures/metallurgie/1.png'),
+                name: 'Metallurgie',
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
             {
-                key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
+                key: '',
+                imgUrl: require('../images/pictures/papier/1.png'),
+                name: 'Machine de production de Papier',
                 products: 
                 [
-                    {
-                        
-                    },
+                   
                 ]
             },
             {
-                key: 'fyuu65784ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
+                key: '',
+                imgUrl: require('../images/pictures/textile/1.png'),
+                name: 'Habillement et Machine textile',
                 products: 
                 [
-                    {
-                        
-                    },
+                    
                 ]
             },
-            {
-                key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            {
-                key: 'fyuu6578rrts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            {
-                key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            {
-                key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            {
-                key: 'fyuu6578tts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
-                products: 
-                [
-                    {
-                        
-                    },
-                ]
-            },
-            
+           
             
         ],
     },
