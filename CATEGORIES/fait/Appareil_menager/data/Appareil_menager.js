@@ -31,7 +31,7 @@
             },
             {
                 key: 'yyyjnvh67676fghjhhhjhjh',
-                imgUrl: require('../images/pictures/pieces/1.png'),
+                imgUrl: require('../images/pictures/piece/1.jpg'),
                 name: 'Pièces Appareil Ménager ',
                 products: 
                 [
@@ -42,7 +42,7 @@
             },
             {
                 key: 'fyuu6578ts5e3',
-                imgUrl: require('../images/pictures/perso/1.png'),
+                imgUrl: require('../images/pictures/perso/1.jpg'),
                 name: 'Appareils De Soins personnels',
                 products: 
                 [

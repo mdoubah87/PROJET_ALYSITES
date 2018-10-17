@@ -224,7 +224,7 @@
                     },
                     {
                         key: 'kdjdejldsffjkl8w24784j3384',
-                        imgUrl: require('2994../images/pictures/accessoires/products/2.a.png'),
+                        imgUrl: require('../images/pictures/accessoires/products/2.a.png'),
                         name: "Archies Gents Montre Au Poignet ",
                         description: {
                             features: [{
@@ -421,7 +421,7 @@
                     },
                     {
                         key: 'kdjdejlds824784j3384',
-                        imgUrl: require('2994../images/pictures/chemises/products/2.a.png'),
+                        imgUrl: require('../images/pictures/chemises/products/2.a.png'),
                         name: "no logo navy casual shirt ",
                         description: {
                             features: [{
@@ -600,7 +600,7 @@
                     },
                     {
                         key: 'kdj2dejlds824784j3384',
-                        imgUrl: require('2994../images/pictures/costumes/products/2.a.png'),
+                        imgUrl: require('../images/pictures/costumes/products/2.a.png'),
                         name: "blazar en laine vierge",
                         description: {
                             features: [{
