@@ -42,7 +42,7 @@
             },
             {
                 key: '',
-                imgUrl: require('../images/Engins _Automobiles_et_Autos/Pièces_Autos/1.png'),
+                imgUrl: require('../images/Engins _Automobiles_et_Autos/Pieces_Autos/1.png'),
                 name: 'Pièces Autos',
                 products: 
                 [
@@ -53,7 +53,7 @@
             },
             {
                 key: '',
-                imgUrl: require('../images/Engins _Automobiles_et_Autos/Pièces_Motos/1.png'),
+                imgUrl: require('../images/Engins _Automobiles_et_Autos/Pieces_Motos/1.png'),
                 name: 'Pièces Motos',
                 products: 
                 [
@@ -64,7 +64,7 @@
             },
             {
                 key: '',
-                imgUrl: require('../images/Engins _Automobiles_et_Autos/Pièces_Vélos/1.png'),
+                imgUrl: require('../images/Engins _Automobiles_et_Autos/Pieces_Velos/1.png'),
                 name: 'Pièces Vélos',
                 products: 
                 [
@@ -86,7 +86,7 @@
             },
             {
                 key: '',
-                imgUrl: require('../images/Engins _Automobiles_et_Autos/Vélo/1.png'),
+                imgUrl: require('../images/Engins _Automobiles_et_Autos/Velo/1.png'),
                 name: 'Vélo',
                 products: 
                 [

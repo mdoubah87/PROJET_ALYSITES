@@ -20,7 +20,7 @@
                                 
                             },
                             productsImg: [
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C12.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C12.jpg'),
                                 require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C13.png'),
                                 require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C14.png'),
                                 require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C15.png'),
@@ -31,7 +31,7 @@
                         },
                         {
                             key: 'MeggVGhhg762v6',
-                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C21.png'),
+                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P2/C21.png'),
                             name: "Razeal ",
                             description: {
                                 features: [{
@@ -40,17 +40,17 @@
                                 
                             },
                             productsImg: [
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C22.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C23.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C24.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C25.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P2/C22.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P2/C23.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P2/C24.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P2/C25.png'),
                             ],
                             views: "9008",
                             wishList: "1008",
                         },
                         {
                             key: 'MeggQdhhg614',
-                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C31.png'),
+                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P3/C31.png'),
                             name: "Hollihi 20 pièces ",
                             description: {
                                 features: [{
@@ -59,17 +59,17 @@
                                 
                             },
                             productsImg: [
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C32.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C33.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C34.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C35.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P3/C32.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P3/C33.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P3/C34.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P3/C35.png'),
                             ],
                             views: "8794",
                             wishList: "7612",
                         },
                         {
                             key: 'MegDc6hhg6220',
-                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C41.png'),
+                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P4/C41.png'),
                             name: "Extensions de cheveux",
                             description: {
                                 features: [{
@@ -78,17 +78,17 @@
                                 
                             },
                             productsImg: [
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C42.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C43.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C44.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C45.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P4/C42.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P4/C43.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P4/C44.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P4/C45.png'),
                             ],
                             views: "6710",
                             wishList: "187",
                         },
                         {
                             key: 'MeggBgGt76',
-                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C51.png'),
+                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P5/C51.png'),
                             name: "Westeng Grand Pince à Cheveux Clips ",
                             description: {
                                 features: [{
@@ -97,17 +97,17 @@
                                 
                             },
                             productsImg: [
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C52.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C53.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C54.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C55.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P5/C52.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P5/C53.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P5/C54.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P5/C55.png'),
                             ],
                             views: "81716",
                             wishList: "8871",
                         },
                         {
                             key: 'MegFgTR65jI9',
-                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C61.png'),
+                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P6/C61.png'),
                             name: "Y & M Nouveaux Brésiliens 100%",
                             description: {
                                 features: [{
@@ -116,17 +116,17 @@
                                 
                             },
                             productsImg: [
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C61.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C62.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C63.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C64.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P6/C61.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P6/C62.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P6/C63.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P6/C64.png'),
                             ],
                             views: "7611",
                             wishList: "1100",
                         },
                         {
                             key: 'MeggVYyUI891',
-                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C71.png'),
+                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P7/C71.png'),
                             name: "Oylove 9A Grade Mongolian Afro",
                             description: {
                                 features: [{
@@ -135,17 +135,17 @@
                                 
                             },
                             productsImg: [
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C72.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C73.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C74.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C75.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P7/C72.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P7/C73.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P7/C74.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P7/C75.png'),
                             ],
                             views: "7600",
                             wishList: "881",
                         },
                         {
                             key: 'MegDPoI9821',
-                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C81.png'),
+                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P8/C81.png'),
                             name: "4 Paquets d’Extensions Tissées ",
                             description: {
                                 features: [{
@@ -154,17 +154,17 @@
                                 
                             },
                             productsImg: [
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C82.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C83.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C84.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C85.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P8/C82.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P8/C83.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P8/C84.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P8/C85.png'),
                             ],
                             views: "10928",
                             wishList: "520",
                         },
                         {
                             key: 'MeJUsT624',
-                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C91.png'),
+                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P9/C91.png'),
                             name: "Les cheveux frisés",
                             description: {
                                 features: [{
@@ -173,18 +173,18 @@
                                 
                             },
                             productsImg: [
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C92.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C93.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C94.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C95.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/C96.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P9/C92.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P9/C93.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P9/C94.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P9/C95.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P9/C96.png'),
                             ],
                             views: "4254",
                             wishList: "892",
                         },
                         {
                             key: 'MeKlOAR554',
-                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/101.png'),
+                            imgUrl: require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P10/C101.png'),
                             name: "Fouriding Mignons",
                             description: {
                                 features: [{
@@ -193,10 +193,10 @@
                                 
                             },
                             productsImg: [
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/102.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/103.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/104.png'),
-                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P1/105.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P10/C102.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P10/C103.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P10/C104.png'),
+                                require('../images/meche_et_extension_de_cheveux/Cheveux Tisse/P10/C105.png'),
                             ],
                             views: "4237",
                             wishList: "876",
@@ -303,7 +303,7 @@
                                 require('../images/meche_et_extension_de_cheveux/Perruque humaine/P5/P51.png'),
                                 require('../images/meche_et_extension_de_cheveux/Perruque humaine/P5/P52.png'),
                                 require('../images/meche_et_extension_de_cheveux/Perruque humaine/P5/P53.png'),
-                                require('../images/meche_et_extension_de_cheveux/Perruque humaine/P5/P4.png'),
+                                require('../images/meche_et_extension_de_cheveux/Perruque humaine/P5/P54.png'),
                             ],
                             views: "1191",
                             wishList: "1091",

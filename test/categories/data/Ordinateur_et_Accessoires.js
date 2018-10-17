@@ -19,7 +19,7 @@
             },
             {
                 key: '12ejh45fghffdfgefe12yjyt0gg2d3r',
-                imgUrl: require('../images/Ordinateur_et_Accessoires/Ordinateurs et Périphériques/1.png'),
+                imgUrl: require('../images/Ordinateur_et_Accessoires/Ordinateurs et Peripheriques/1.png'),
                 name: 'Ordinateurs et Périphériques',
                 products: 
                 [

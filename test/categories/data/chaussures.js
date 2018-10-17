@@ -9,7 +9,7 @@
             
             {
                 key: '12ejh5445fghffdfgefe120gg2d3r',
-                imgUrl: require('../images/Chaussures/Chaussures de bébé/1.png'),
+                imgUrl: require('../images/Chaussures/Chaussures de bebe/1.png'),
                 name: 'Chaussures de bébé',
                 products: 
                 [
@@ -42,7 +42,7 @@
             },
             {
                 key: 'fyuu6578ts5e3',
-                imgUrl: require('../images/Chaussures/Chaussures décontractées/1.png'),
+                imgUrl: require('../images/Chaussures/Chaussures decontractees/1.png'),
                 name: 'Chaussures décontractées',
                 products: 
                 [
@@ -64,7 +64,7 @@
             },
             {
                 key: 'fyuu65784ts5rrre3',
-                imgUrl: require('../images/Chaussures/Chaussures habillées/1.png'),
+                imgUrl: require('../images/Chaussures/Chaussures habillees/1.png'),
                 name: 'Chaussures habillées',
                 products: 
                 [
@@ -97,7 +97,7 @@
             },
             {
                 key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/Chaussures/Usage spécial/1.png'),
+                imgUrl: require('../images/Chaussures/Usage special/1.png'),
                 name: 'Usage spécial',
                 products: 
                 [
