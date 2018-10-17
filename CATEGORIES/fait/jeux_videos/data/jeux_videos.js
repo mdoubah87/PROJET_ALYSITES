@@ -65,7 +65,7 @@
             },
             {
                 key: 'fyuu657de8fd54fg5dts5rrre3',
-                imgUrl: require('../images/pictures/nitendo_switch/1.png'),
+                imgUrl: require('../images/pictures/nintendo_switch/1.png'),
                 name: 'Console Nitendo Switch ',
                 products: 
                 [
@@ -74,7 +74,7 @@
             },
             {
                 key: 'fyuu6578rd5d5drts5rrre3',
-                imgUrl: require('../images/pictures/nitendo_ds/1.png'),
+                imgUrl: require('../images/pictures/nintendo_ds/1.png'),
                 name: 'Console Nitendo DS',
                 products: 
                 [

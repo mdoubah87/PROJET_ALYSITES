@@ -27,7 +27,7 @@
             },
             {
                 key: 'yyyjdsgznvfh67676fgsshjhhhjhjh',
-                imgUrl: require('../images/pictures//bijoux_africain.png'),
+                imgUrl: require('../images/pictures/bijoux_africain/1.png'),
                 name: 'Bijoux Africain',
                 products: 
                 [
@@ -128,7 +128,7 @@
             },
             {
                 key: 'fyuu6578tsfghgbts5fgdfdfgrrre3',
-                imgUrl: require('../images/pictures/colier_de_parure/1.png'),
+                imgUrl: require('../images/pictures/collier_de_parure/1.png'),
                 name: "Collier de Parure",
                 products: 
                 [

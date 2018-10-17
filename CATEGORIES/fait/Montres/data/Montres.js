@@ -9,7 +9,7 @@
             
             {
                 key: '12ejh5445fghf24fdfgefe120gg2d3r',
-                imgUrl: require('../images/pictures/home/1.png'),
+                imgUrl: require('../images/pictures/homme/1.png'),
                 name: 'Montre pour Homme',
                 products: 
                 [

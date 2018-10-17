@@ -75,8 +75,8 @@
             },
             {
                 key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
+                imgUrl: require('../images/pictures/meuble_en_plastisque/1.png'),
+                name: 'Meuble en Plastique',
                 products: 
                 [
                     {
@@ -86,8 +86,8 @@
             },
             {
                 key: 'fyuu6578rrts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
+                imgUrl: require('../images/pictures/Meuble_en_verre/1.png'),
+                name: 'Meuble en verre ou vitre',
                 products: 
                 [
                     {
@@ -97,8 +97,8 @@
             },
             {
                 key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
+                imgUrl: require('../images/pictures/meuble_pliable/1.png'),
+                name: 'Meuble Pliable',
                 products: 
                 [
                     {
@@ -108,8 +108,8 @@
             },
             {
                 key: 'fyuu6578ts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
+                imgUrl: require('../images/pictures/meuble_pour_bebe/1.png'),
+                name: 'Meuble pour bebe',
                 products: 
                 [
                     {
@@ -119,8 +119,8 @@
             },
             {
                 key: 'fyuu6578tts5rrre3',
-                imgUrl: require('../images/pictures//1.png'),
-                name: '',
+                imgUrl: require('../images/pictures/meuble_pour_enfant/1.png'),
+                name: 'meuble pour enfant',
                 products: 
                 [
                     {
